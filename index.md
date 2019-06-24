@@ -51,10 +51,7 @@
 <p><span style="font-size: medium; color: #000000;"><u>Estimation of Genetic Correlation via Linkage Disequilibrium Score Regression and Genomic Restricted Maximum Likelihood.</u><br />Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ).<br /><em>The American Journal of Human Genetics,&nbsp;</em>2018.</span></p>
 </li>
 <li>
-
-
 <p><u><span style="font-size: medium;">NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks</span><span style="font-size: medium;">.</span></u><br /><span style="font-size: medium;">Wenchao Yu, *<strong>Wei Cheng</strong>, Charu Aggarwal, Kai Zhang, Haifeng Chen, Wei Wang.<br /><em>The Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD&rsquo;18)</em>, 2018. (<strong>Oral</strong>,&nbsp;<strong><a href="https://www.dropbox.com/s/9ktswmabm0xp94j/kdd18_netwalk.pdf?dl=0" rel="nofollow">pdf</a></strong>, <strong><a href="https://github.com/chengw07/NetWalk" rel="nofollow">matlab code & python code</a></strong>)</p>
-
 </li>
 <li>
 <p><u><span style="font-size: medium;">Deep r-<em>th</em>&nbsp;Root Rank Supervised Joint Binary Embedding for Multivariate Time Series Retrieval</span><span style="font-size: medium;">.</span><br /></u>Dongjing Song, Ning Xia,&nbsp;<strong>Wei Cheng</strong>, Haifeng Chen, Dacheng Tao.<br /><em>The Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD&rsquo;18)</em>, 2018.(<strong>Oral</strong>,<strong><a href="https://www.dropbox.com/s/loyey7e8usumuml/kdd-18-rth.pdf?dl=0" rel="nofollow">pdf</a></strong>,&nbsp;<a href="https://jpn.nec.com/press/201812/20181212_01.html" rel="nofollow"><strong>Media Report</strong></a>)</p>
