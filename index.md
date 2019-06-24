@@ -53,7 +53,7 @@
 <li>
 
 
-<p><u><span style="font-size: medium;">NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks</span><span style="font-size: medium;">.</span></u><br /><span style="font-size: medium;">Wenchao Yu, *<strong>Wei Cheng</strong>, Charu Aggarwal, Kai Zhang, Haifeng Chen, Wei Wang.<br /><em>The Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD&rsquo;18)</em>, 2018. (<strong>Oral</strong>,&nbsp;<strong><a href="https://www.dropbox.com/s/9ktswmabm0xp94j/kdd18_netwalk.pdf?dl=0" rel="nofollow">pdf</a></strong>, <strong><a href="https://github.com/chengw07/NetWalk" rel="nofollow">matlab code & python code</a></strong></p>
+<p><u><span style="font-size: medium;">NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks</span><span style="font-size: medium;">.</span></u><br /><span style="font-size: medium;">Wenchao Yu, *<strong>Wei Cheng</strong>, Charu Aggarwal, Kai Zhang, Haifeng Chen, Wei Wang.<br /><em>The Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD&rsquo;18)</em>, 2018. (<strong>Oral</strong>,&nbsp;<strong><a href="https://www.dropbox.com/s/9ktswmabm0xp94j/kdd18_netwalk.pdf?dl=0" rel="nofollow">pdf</a></strong>, <strong><a href="https://github.com/chengw07/NetWalk" rel="nofollow">matlab code & python code</a></strong>)</p>
 
 </li>
 <li>
