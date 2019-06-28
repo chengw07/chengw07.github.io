@@ -39,6 +39,9 @@
 <p><span style="font-size: medium;"><u>A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data.<br /></u>C. Zhang, D. Song, Y. Chen, X. Feng, C. Lumezanu,&nbsp;<strong>W. Cheng</strong>, J. Ni, B. Zong, H. Chen, N. Chawla<br /><em>The 2019 AAAI International Conference on Artificial Intelligence (AAAI'19), 2019.</em></span></p>
 </li>
 <li>
+<p><span style="font-size: medium;"><u>Population‐based identity‐by‐descent mapping combined with exome sequencing to detect rare risk variants for schizophrenia..<br /></u>Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ)<br /><em>The American Journal of Human Genetics,&nbsp;</em>, 2019.</span></p>
+</li>
+<li>
 <p><span style="font-size: medium;"><u>On Multi-Query Local Community Detection.</u><br />Yuchen Bian, Yaowei Yan,&nbsp;<strong>Wei Cheng</strong>, Wei Wang, Dongsheng Luo, and Xiang Zhang.<br /><em>The 2018 edition of the IEEE International Conference on Data Mining series (ICDM'18)</em>, 2018.&nbsp;</span>(<span style="color: #ff0000; font-size: medium;"><strong>Knowl. Inf. Syst. (KAIS) on &ldquo;Bests of ICDM 2018&rdquo;</strong></span>)</p>
 </li>
 <li>
