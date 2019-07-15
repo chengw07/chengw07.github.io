@@ -29,6 +29,11 @@
 </ul>
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
+  
+<li>
+<p><span style="font-size: medium;"><u>Sparse Regression Models for Unraveling Group and Individual Associations in eQTL
+Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em>In "eQTL Analysis: Methods and Protocols"(Eds: Xinghua Mindy Shi), Chapter 8, Springer Press</em>. (to appear)</span></p>
+</li>
 <li>
 <p><span style="font-size: medium;"><u>Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs.<br /></u>Dongkuan Xu, *<strong>Wei Cheng</strong><span style="color: #454545; font-family: 'Helvetica Neue';">, Dongsheng Luo, Xiao Liu, Xiang Zhang</span><br /><em>In Proceedings of The 29th International Joint Conference on Artificial Intelligence (IJCAI'19)</em>. (to appear)</span></p>
 </li>
