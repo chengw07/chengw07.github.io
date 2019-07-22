@@ -30,9 +30,11 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
   
+<li><span style="font-size: medium;"><u>Memory-Based Random Walk for Multi-Query Local Community Detection</u>.&nbsp;</span><br />Yuchen Bian, Dongsheng Luo, Yaowei Yan,&nbsp;<strong>Wei Cheng</strong>, Wei Wang, Xiang Zhang.<br /><em>Knowledge and Information Systems (KAIS)</em>, 2019. (<strong><span style="color: #FF0000;">Best Papers of ICDM 2018</span></strong>)<br /><br /></li>
+  
 <li>
 <p><span style="font-size: medium;"><u>Sparse Regression Models for Unraveling Group and Individual Associations in eQTL
-Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em>In "eQTL Analysis: Methods and Protocols"(Eds: Xinghua Mindy Shi), Chapter 8, Springer Press</em>. 2019</span></p>
+Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em>In "eQTL Analysis: Methods and Protocols"(Book Chapter, Eds: Xinghua Mindy Shi), Chapter 8, Springer Press</em>. 2019</span></p>
 </li>
 <li>
 <p><span style="font-size: medium;"><u>Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs.<br /></u>Dongkuan Xu, *<strong>Wei Cheng</strong><span style="color: #454545; font-family: 'Helvetica Neue';">, Dongsheng Luo, Xiao Liu, Xiang Zhang</span><br /><em>In Proceedings of The 29th International Joint Conference on Artificial Intelligence (IJCAI'19)</em>. (to appear)</span></p>
