@@ -145,7 +145,7 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 </ul>
 <h3><a name="TOC-Professional-Activities"></a>Professional Activities</h3>
 <ul>
-<li><span style="font-size: medium;">SPC/PC Member or Reviewer: AAAI'20, WSDM'20, AAAI'19, CIKM'18, TNNLS'19, TNNLS'18,&nbsp;ICDM'17, SDM'17, Nature Genetics'16, IJCAI'15, TKDE'16, TKDD'16, Neurocomputing'15, KDD'14, ECML PKDD'15,'16</span></li>
+<li><span style="font-size: medium;">SPC/PC Member or Reviewer: AAAI'20, WSDM'20, IEEE Transactions on Cybernetics, AAAI'19, CIKM'18, TNNLS'19, TNNLS'18,&nbsp;ICDM'17, SDM'17, Nature Genetics'16, IJCAI'15, TKDE'16, TKDD'16, Neurocomputing'15, KDD'14, ECML PKDD'15,'16</span></li>
 <li><span style="font-size: medium;">External Reviewer: KDD'12, KDD'13, KDD'14, VLDB'12, ACM CIKM'12, ACM CIKM'13, IEEE ICDM'13, IEEE ICDM'12, SDM'11, ICDE'12, PKDD/ECML'12</span></li>
 </ul>
 <h3><a name="TOC-Teaching"></a>Teaching</h3>
