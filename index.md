@@ -29,7 +29,9 @@
 </ul>
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
-  
+<li><span style="font-size: medium;"><u>Self-Attentive Attributed Network Embedding Through Adversarial Learning.</u>&nbsp;<br />Wenchao Yu, <strong>Wei Cheng</strong>, Charu Aggarwal, Bo Zong, Haifeng Chen, and Wei Wang.<br /><em>The 2019 edition of the IEEE International Conference on Data Mining series (ICDM'19)</em>, 2019.<br /><br /></span></li>
+ <li><span style="font-size: medium;"><u>Learning Robust Representations with Graph Denoising Policy Network.</u>&nbsp;<br />Lu Wang, Wenchao Yu, Wei Wang, <strong>Wei Cheng</strong>, Hongyuan Zha, Wei Zhang, Xiaofeng He, and Haifeng Chen.<br /><em>The 201 edition of the IEEE International Conference on Data Mining series (ICDM'19)</em>, 2019.<br /><br /></span></li>
+ <li><span style="font-size: medium;"><u>Adaptive Neural Network for Node Classification in Dynamic Networks.</u>&nbsp;<br />Dongkuan Xu, <strong>Wei Cheng</strong>, Dongsheng Luo, Yameng Gu, Xiao Liu, Jingchao Ni, Bo Zong, Haifeng Chen, and Xiang Zhang.<br /><em>The 2019 edition of the IEEE International Conference on Data Mining series (ICDM'19)</em>, 2019.<br /><br /></span></li>
 <li><span style="font-size: medium;"><u>Memory-Based Random Walk for Multi-Query Local Community Detection</u>.&nbsp;</span><br />Yuchen Bian, Dongsheng Luo, Yaowei Yan,&nbsp;<strong>Wei Cheng</strong>, Wei Wang, Xiang Zhang.<br /><em>Knowledge and Information Systems (KAIS)</em>, 2019. (<strong><span style="color: #FF0000;">Best Papers of ICDM 2018</span></strong>)<br /><br /></li>
   
 <li>
