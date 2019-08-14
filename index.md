@@ -39,7 +39,7 @@
 Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em>In "eQTL Analysis: Methods and Protocols"(Book Chapter, Eds: Xinghua Mindy Shi), Chapter 8, Springer Press</em>. 2019</span></p>
 </li>
 <li>
-<p><span style="font-size: medium;"><u>Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs.<br /></u>Dongkuan Xu, *<strong>Wei Cheng</strong><span style="color: #454545; font-family: 'Helvetica Neue';">, Dongsheng Luo, Xiao Liu, Xiang Zhang</span><br /><em>In Proceedings of The 29th International Joint Conference on Artificial Intelligence (IJCAI'19)</em>. (to appear)</span></p>
+<p><span style="font-size: medium;"><u>Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs.<br /></u>Dongkuan Xu, *<strong>Wei Cheng</strong><span style="color: #454545; font-family: 'Helvetica Neue';">, Dongsheng Luo, Xiao Liu, Xiang Zhang</span><br /><em>In Proceedings of The 29th International Joint Conference on Artificial Intelligence (IJCAI'19)</em>. (<strong><a href="https://www.ijcai.org/proceedings/2019/0548.pdf" rel="nofollow">PDF</a></strong>)</span></p>
 </li>
 <li>
 <p><span style="font-size: medium;"><u>Deep Co-Clustering.<br /></u>Dongkuan Xu, *<strong>Wei Cheng</strong><span style="color: #454545; font-family: 'Helvetica Neue';">, Bo Zong, Jingchao Ni, Dongjin Song, Wenchao Yu, Yuncong Chen, Haifeng Chen, Xiang Zhang</span><br /><em>In Proceedings of the 19th SIAM International Conference on Data Mining (SDM'19)</em>. (<strong><a href="https://www.dropbox.com/s/ki7g0izu9hvmctx/SDM2019.pdf?dl=0" rel="nofollow">PDF</a></strong>,&nbsp;<strong><a href="https://www.dropbox.com/s/nns62kaxj2wyszd/SDM2019_supp.pdf?dl=0" rel="nofollow">Supp</a></strong>)</span></p>
