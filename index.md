@@ -29,7 +29,7 @@
 </ul>
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
- <li><span style="font-size: medium;"><u>Learning Robust Representations with Graph Denoising Policy Network.</u>&nbsp;<br />Lu Wang, Wenchao Yu, Wei Wang, <strong>Wei Cheng</strong>, Hongyuan Zha, Wei Zhang, Xiaofeng He, and Haifeng Chen.<br /><em>The 2019 edition of the IEEE International Conference on Data Mining series (ICDM'19)</em>, 2019.(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/Nettention.pdf" rel="nofollow">PDF</a></strong>)<br /><br /></span>
+ <li><span style="font-size: medium;"><u>Learning Robust Representations with Graph Denoising Policy Network.</u>&nbsp;<br />Lu Wang, Wenchao Yu, Wei Wang, <strong>Wei Cheng</strong>, Hongyuan Zha, Wei Zhang, Xiaofeng He, and Haifeng Chen.<br /><em>The 2019 edition of the IEEE International Conference on Data Mining series (ICDM'19)</em>, 2019.(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/GDPNet.pdf" rel="nofollow">PDF</a></strong>)<br /><br /></span>
  </li>
  <li><span style="font-size: medium;"><u>Adaptive Neural Network for Node Classification in Dynamic Networks.</u>&nbsp;<br />Dongkuan Xu, *<strong>Wei Cheng</strong>, Dongsheng Luo, Yameng Gu, Xiao Liu, Jingchao Ni, Bo Zong, Haifeng Chen, and Xiang Zhang.<br /><em>The 2019 edition of the IEEE International Conference on Data Mining series (ICDM'19)</em>, 2019.(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM19.pdf" rel="nofollow">PDF</a></strong>)<br /><br /></span>
  </li>
