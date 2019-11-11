@@ -30,7 +30,7 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
  <li>
-<p><span style="font-size: medium;"><u>Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series.<br /></u>D. Xu, <strong>Wei Cheng</strong>, B. Zong, D. Song, J. Ni, Y. Yu, Y. Liu, H. Chen, X. Zhang<br /><em>The 2020 AAAI International Conference on Artificial Intelligence (AAAI'20), 2020.(to appear)</em></span></p>
+<p><span style="font-size: medium;"><u>Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series.<br /></u>D. Xu, <strong>*Wei Cheng</strong>, B. Zong, D. Song, J. Ni, Y. Yu, Y. Liu, H. Chen, X. Zhang<br /><em>The 2020 AAAI International Conference on Artificial Intelligence (AAAI'20), 2020.(to appear)</em></span></p>
 </li>
  <li>
 <p><span style="font-size: medium;"><u>Asymmetrical Hierarchical Networks with Attentive Interactions for Interpretable Review-based Recommendation.<br /></u>X. Dong, J. Ni, <strong>Wei Cheng</strong>, Z. Chen, B. Zong, D. Song, Y. Liu, H. Chen, G. Melo<br /><em>The 2020 AAAI International Conference on Artificial Intelligence (AAAI'20), 2020.(to appear)</em></span></p>
