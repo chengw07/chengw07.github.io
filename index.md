@@ -30,6 +30,10 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
  <li>
+<p><span style="font-size: medium;"><u>Inductive and Unsupervised Representation Learning on Graph Structured Objects.<br /></u>Lichen Wang, Bo Zong, Qianqian Ma, <strong>Wei Cheng</strong>, Jingchao Ni, Wenchao Yu, Yanchi Liu, Dongjin Song, Haifeng Chen, Yun Fu<br /><em>The Eighth International Conference on Learning Representations (ICLR'20), 2020.(to appear)</em> (<strong><a href="https://openreview.net/forum?id=rkem91rtDB" rel="nofollow">PDF</a></strong>)
+ </span></p>
+</li>
+ <li>
 <p><span style="font-size: medium;"><u>Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series.<br /></u>D. Xu, <strong>*Wei Cheng</strong>, B. Zong, D. Song, J. Ni, W. Yu, Y. Liu, H. Chen, X. Zhang<br /><em>The 2020 AAAI International Conference on Artificial Intelligence (AAAI'20), 2020.(to appear)</em> (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI-XuD.6968.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
 </li>
