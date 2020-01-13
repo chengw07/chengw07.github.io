@@ -30,7 +30,7 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
   <li>
-<p><span style="font-size: medium;"><u>Adversarial Cooperative Imitation Learning for DynamicTreatment Regimes.<br /></u>Lu Wang, Wenchao Yu, <strong>Wei Cheng</strong>, Martin Renqiang Ren, Bo Zong, Xiaofeng He, Hongyuan Zha, Wei Wang, Haifeng Chen<br /><em>Proceedings of the International Conference on World Wide Web (WWW'20), 2020.</em> (<strong>to appear</strong>)
+<p><span style="font-size: medium;"><u>Adversarial Cooperative Imitation Learning for Dynamic Treatment Regimes.<br /></u>Lu Wang, Wenchao Yu, <strong>Wei Cheng</strong>, Martin Renqiang Ren, Bo Zong, Xiaofeng He, Hongyuan Zha, Wei Wang, Haifeng Chen<br /><em>Proceedings of the International Conference on World Wide Web (WWW'20), 2020.</em> (<strong>to appear</strong>)
  </span></p>
 </li>
  <li>
