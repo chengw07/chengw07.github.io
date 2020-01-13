@@ -30,11 +30,11 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
   <li>
-<p><span style="font-size: medium;"><u>Adversarial Cooperative Imitation Learning for DynamicTreatment Regimes.<br /></u>Lu Wang, Wenchao Yu, <strong>Wei Cheng</strong>, Martin Renqiang Ren, Bo Zong, Xiaofeng He, Hongyuan Zha, Wei Wang, Haifeng Chen<br /><em>Proceedings of the International Conference on World Wide Web (WWW'20), 2020.(to appear)</em> (<strong>to appear</strong>)
+<p><span style="font-size: medium;"><u>Adversarial Cooperative Imitation Learning for DynamicTreatment Regimes.<br /></u>Lu Wang, Wenchao Yu, <strong>Wei Cheng</strong>, Martin Renqiang Ren, Bo Zong, Xiaofeng He, Hongyuan Zha, Wei Wang, Haifeng Chen<br /><em>Proceedings of the International Conference on World Wide Web (WWW'20), 2020.</em> (<strong>to appear</strong>)
  </span></p>
 </li>
  <li>
-<p><span style="font-size: medium;"><u>Inductive and Unsupervised Representation Learning on Graph Structured Objects.<br /></u>Lichen Wang, Bo Zong, Qianqian Ma, <strong>Wei Cheng</strong>, Jingchao Ni, Wenchao Yu, Yanchi Liu, Dongjin Song, Haifeng Chen, Yun Fu<br /><em>The Eighth International Conference on Learning Representations (ICLR'20), 2020.(to appear)</em> (<strong><a href="https://openreview.net/forum?id=rkem91rtDB" rel="nofollow">PDF</a></strong>)
+<p><span style="font-size: medium;"><u>Inductive and Unsupervised Representation Learning on Graph Structured Objects.<br /></u>Lichen Wang, Bo Zong, Qianqian Ma, <strong>Wei Cheng</strong>, Jingchao Ni, Wenchao Yu, Yanchi Liu, Dongjin Song, Haifeng Chen, Yun Fu<br /><em>The Eighth International Conference on Learning Representations (ICLR'20), 2020.</em> (<strong><a href="https://openreview.net/forum?id=rkem91rtDB" rel="nofollow">PDF</a></strong>)
  </span></p>
 </li>
  <li>
