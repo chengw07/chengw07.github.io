@@ -30,7 +30,11 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
   <li>
-<p><span style="font-size: medium;"><u>Adversarial Cooperative Imitation Learning for Dynamic Treatment Regimes.<br /></u>Lu Wang, Wenchao Yu, <strong>Wei Cheng</strong>, Martin Renqiang Ren, Bo Zong, Xiaofeng He, Hongyuan Zha, Wei Wang, Haifeng Chen<br /><em>Proceedings of the International Conference on World Wide Web (WWW'20), 2020.</em> (<strong>to appear</strong>)
+<p><span style="font-size: medium;"><u>You Are What You Do: Hunting Stealthy Malware via Data Provenance Analysis.<br /></u>Q. Wang, W. Hassan, D. Li, K. Jee, X. Yu, K. Zou, J. Rhee, Z. Chen, <strong>W. Cheng</strong>, C. Gunter, H. Chen<br /><em>The Network and Distributed System Security Symposium (NDSS'20), 2020.</em> (<strong>to appear</strong>)
+ </span></p>
+</li>
+  <li>
+<p><span style="font-size: medium;"><u>Adversarial Cooperative Imitation Learning for Dynamic Treatment Regimes.<br /></u>Lu Wang, Wenchao Yu, <strong>Wei Cheng</strong>, Martin Renqiang Ren, Bo Zong, Xiaofeng He, Hongyuan Zha, Wei Wang, Haifeng Chen<br /><em>Proceedings of the International Conference on World Wide Web (WWW'20), 2020.</em> (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/WWW20.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
 </li>
  <li>
