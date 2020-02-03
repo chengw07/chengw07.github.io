@@ -110,7 +110,7 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 </div>
 </div>
 </div>
-</li
+</li>
   
 <!--
 <li><span style="font-size: medium;"><u>DBSDA: Lowering the Error Bound of Sparse Linear Discriminant Analysis via Model De-Biasing.</u><br />Haoyi Xiong,&nbsp;<strong>Wei Cheng</strong>, Wenqing Hu, Jiang Bian, Zhishan Guo.<br /><em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</em>, 2018.<br /><br /></span></li>
