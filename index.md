@@ -86,9 +86,9 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <p><span style="font-size: medium;"><u>Genomic Dissection of Bipolar Disorder and Schizophrenia, Including 28 Subphenotypes.</u><br /><span style="color: #000000;">Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ).</span><br /><strong><span style="color: #FF0000;">Cell</span></strong><span style="color: #666666;">, <span style="color: #000000;">2018.</span></span></span></p>
 </li>
 
-<!--
+
 <li><span style="font-size: medium;"><u>On Multi-Query Local Community Detection.</u>&nbsp;<br />Yuchen Bian, Yaowei Yan,&nbsp;<strong>Wei Cheng</strong>, Wei Wang, Dongsheng Luo, Xiang Zhang.<br /><em>The 2018 edition of the IEEE International Conference on Data Mining series (ICDM'18)</em>, 2018. (<strong><span style="color: #FF0000;">Knowl. Inf. Syst. (KAIS) on &ldquo;Bests of ICDM 2018&rdquo;</span></strong>)<br /><br /></span></li>
--->
+
 
 <li>
 <p><span style="font-size: medium;"><span style="color: #666666;"><span style="color: #000000;"><u>Collaborative Alert Ranking for Enterprise Security System.</u></span><br /><span style="color: #000000;">Ying Lin, Zhengzhang Chen, Kai Zhang, Cheng Cao, Lu-An Tang,&nbsp;<strong>Wei Cheng</strong>&nbsp;and Zhichun Li.</span><br /><span style="color: #000000;"><em>The 27th ACM International Conference on Information and Knowledge Management (CIKM'18)</em>, 2018. (</span><strong><a href="https://www.dropbox.com/s/rf0lj5zkapctecq/cikm-18.pdf?dl=0" rel="nofollow">pdf</a></strong><span style="color: #000000;">)</span></span></span></p>
@@ -125,40 +125,40 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 
 <li><span style="font-size: medium;"><u>Co-Regularized Deep Multi-Network Embedding.</u><br />Jingchao Ni, Shiyu Chang, Xiao Liu,&nbsp;<strong>Wei Cheng</strong>, Haifeng Chen, Dongkuan Xu and Xiang Zhang.<br /><em>Proceedings of the International Conference on World Wide Web (WWW'18)</em>, 2018.<br /><br /></span></li>
 
-<!--
-<li><span style="font-size: medium;"><u>The Multi-Walker Chain and It's Application in Local Community Detection</u>.&nbsp;</span><br />Yuchen Bian, Jingchao Ni,&nbsp;<strong>Wei Cheng</strong>, Xiang Zhang.<br /><em>Knowledge and Information Systems (KAIS)</em>, 2018. (<strong><span style="color: #FF0000;">Best Papers of ICDM 2017</span></strong>)<br /><br /></li>
--->
 
-<!--
+<li><span style="font-size: medium;"><u>The Multi-Walker Chain and It's Application in Local Community Detection</u>.&nbsp;</span><br />Yuchen Bian, Jingchao Ni,&nbsp;<strong>Wei Cheng</strong>, Xiang Zhang.<br /><em>Knowledge and Information Systems (KAIS)</em>, 2018. (<strong><span style="color: #FF0000;">Best Papers of ICDM 2017</span></strong>)<br /><br /></li>
+
+
+
 <li><span style="font-size: medium;"><u>De-biasing Covariance-Regularized Discriminant Analysis</u><u>. <br /></u><span style="font-size: medium;">Haoyi Xiong,&nbsp;</span><strong>Wei Cheng</strong><span style="font-size: medium;">, Yanjie Fu,&nbsp;</span>Jiang Bian, Wenqing Hu and Zhishan Guo. <br /><span style="font-size: medium;"><em>The 28th International Joint Conference on Artificial Intelligence (IJCAI'18),</em> 2018.</span> (<a href="http://www.google.com/url?q=http%3A%2F%2Fresearch.baidu.com%2FPublic%2Fuploads%2F5b0e46416fd41.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGhcDVrI5Zg6jzlaafVTdMNEIHA3Q" target="_blank" rel="noopener">PDF</a><span style="color: #212121; font-family: Lato, sans-serif;">)<br /><br /></span></span></li>
--->
+
 
 
 <li><span style="font-size: medium;"><u>Identifying and Quantifying Nonlinear Structured Relationships in Complex Manufactural Systems.</u><br />T. Xu, T. Yan, D. Song,&nbsp;<strong>Wei Cheng</strong>, H. Chen, G. Jiang and J. Bi<br /><em>IEEE International Conference on Big Data (Big Data 2017), Boston, MA, December</em>, 2017.<br /><br /></span></li>
 
-<!--
+
 <li><span style="font-size: medium;"><u>ComClus: A Self-Grouping Framework for Multi-Network Clustering.</u>&nbsp;<br />Jingchao Ni,&nbsp;<strong>Wei Cheng</strong>, Wei Fan, Xiang Zhang.<br /><em>T</em><em>ransactions on Knowledge and Data Engineering (TKDE)</em>, 2017.<br /><br /></span></li>
--->
+
 
 <li><span style="font-size: medium;"><u>Link Prediction with Spatial and Temporal Consistency in Dynamic Networks.</u>&nbsp;<br />Wenchao Yu,&nbsp;<strong>*Wei Cheng</strong>, Wei Wang, Charu C Aggarwal, Haifeng Chen.&nbsp;<br /><em>Proc. 27th Intl. Joint Conf. on Artificial Intelligence (IJCAI'17)</em>, 2017. (<a href="http://cs.unc.edu/~weicheng/ijcai2017.pdf" rel="nofollow">PDF</a>)<br /><br /></span></li>
 <li><span style="font-size: medium;"><u>A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction.</u>&nbsp;<br />Yao Qin, Dongjin Song, Haifeng Chen,&nbsp;<strong>Wei Cheng</strong>, Geoff Jiang, Garrison Cottrell.&nbsp;<br /><em>Proc. 27th Intl. Joint Conf. on Artificial Intelligence (IJCAI'17)</em>, 2017. (<a href="http://cs.unc.edu/~weicheng/ijcai2017-2.pdf" rel="nofollow">PDF</a>)<br /><br /></span></li>
 
-<!--
+
 <li><span style="font-size: medium;"><u>Many Heads are Better than One: Local Community Detection by the Multi-Walker Chain.</u>&nbsp;<br />Yuchen Bian, Jingchao Ni,&nbsp;<strong>Wei Cheng</strong>, Xiang Zhang.<br /><em>The 2017 edition of the IEEE International Conference on Data Mining series (ICDM'17)</em>, 2017. (<strong><span style="color: #FF0000;">Knowl. Inf. Syst. (KAIS) on &ldquo;Bests of ICDM 2017&rdquo;</span></strong>)<br /><br /></span></li>
--->
+
 
 <li><span style="font-size: medium;"><u>Ranking Causal Anomalies by Modeling Local Propagations on Networked Systems.</u><br />Jingchao Ni,&nbsp;<strong>*Wei Cheng</strong>, Kai Zhang, Dongjin Song, Tan Yan, Haifeng Chen, Xiang Zhang.<br /><em>The 2017 edition of the IEEE International Conference on Data Mining series (ICDM'17)</em>, 2017.<br /><br /></span></li>
 
-<!--
-<li><span style="font-size: medium;"><u>Multi-Party Sparse Discriminant Learning.</u>&nbsp;<br />Jian Bian, Haoyi Xiong,&nbsp;<strong>Wei Cheng</strong>, Yanjie Fu, Wenqing Hu, Zhishan Guo.&nbsp;<br /><em>The 2017 edition of the IEEE International Conference on Data Mining series (ICDM'17)</em>, 2017.<br /><br /></span></li>
--->
-<!--
-<li><span style="font-size: medium;"><u>AWDA: An Adaptive Wishart Discriminant Analysis.</u>&nbsp;<br />Haoyi Xiong,&nbsp;<strong>Wei Cheng</strong>, Wenqing Hu, Jiang Bian, and Zhishan Guo.<br /><em>The 2017 edition of the IEEE International Conference on Data Mining series (ICDM'17)</em>, 2017.<br /><br /></span></li>
--->
 
-<!--
+<li><span style="font-size: medium;"><u>Multi-Party Sparse Discriminant Learning.</u>&nbsp;<br />Jian Bian, Haoyi Xiong,&nbsp;<strong>Wei Cheng</strong>, Yanjie Fu, Wenqing Hu, Zhishan Guo.&nbsp;<br /><em>The 2017 edition of the IEEE International Conference on Data Mining series (ICDM'17)</em>, 2017.<br /><br /></span></li>
+
+
+<li><span style="font-size: medium;"><u>AWDA: An Adaptive Wishart Discriminant Analysis.</u>&nbsp;<br />Haoyi Xiong,&nbsp;<strong>Wei Cheng</strong>, Wenqing Hu, Jiang Bian, and Zhishan Guo.<br /><em>The 2017 edition of the IEEE International Conference on Data Mining series (ICDM'17)</em>, 2017.<br /><br /></span></li>
+
+
+
 <li><span style="font-size: medium;"><u>Low-rank Decomposition Meets Kernel Learning: A Generalized Nystrom Method&nbsp;</u>.&nbsp;<br />Liang Lan, Kai Zhang, Hancheng Ge,&nbsp;<strong>Wei Cheng</strong>, Jun Liu, Andreas Rauber, Xiao-Li Li, Jun Wang, Hongyuan Zha.&nbsp;<br /><em>Artificial Intelligence</em>, 2017.<br /><br /></span></li>
--->
+
 
 <li><span style="font-size: medium;"><u>Genetic correlation between amyotrophic lateral sclerosis and schizophrenia</u>.<br /></span><span style="font-size: medium;">Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ).</span><br /><em><strong><span style="color: #ff0000; font-size: medium;">Nature Communications</span></strong></em>, 2017.<br /><br /></li>
 <li><u>Contribution of copy number variants to schizophrenia from a genome-wide study of 41,321 subjects</u><span style="font-size: medium;">.<br /></span><span style="font-size: medium;">Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ).<br /></span><strong><span style="color: #FF0000;"><em>Nature Genetics</em></span></strong>, 2017.(<a href="http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3725.html" rel="nofollow">paper</a>)<br /><br /></li>
