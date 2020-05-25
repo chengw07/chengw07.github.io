@@ -6,14 +6,14 @@
 </td>
 <td>
 <h2><a name="TOC-Wei-Cheng"></a><span style="color: #0000ff;">Wei Cheng</span></h2>
-<h4><a name="TOC-Research-Staff-MemberData-Science-DepartmentNEC-Laboratories-AmericaNC-27599-3175-USAEmail:-weicheng-AT-nec-labs-DOT-com-Homepage:-http:-www.nec-labs.com-wei-cheng"></a>Research Staff Member<br /><a href="http://www.nec-labs.com/research/robust/robust_ASM-website/main/index.php" rel="nofollow">Data Science Department</a><br /><a href="http://www.nec-labs.com/" rel="nofollow">NEC Laboratories America</a><br />NC 27599-3175, USA<br />Email:&nbsp;<a href="mailto:weicheng@nec-labs.com">weicheng [AT] nec-labs [DOT] com</a>&nbsp;<br />Homepage:&nbsp;<a title="homepage" href="https://chengw07.github.io">https://chengw07.github.io</a></h4>
+<h4><a name="TOC-Research-Staff-MemberData-Science-DepartmentNEC-Laboratories-AmericaNC-27599-3175-USAEmail:-weicheng-AT-nec-labs-DOT-com-Homepage:-http:-www.nec-labs.com-wei-cheng"></a>Senior Research Staff Member<br /><a href="http://www.nec-labs.com/research/robust/robust_ASM-website/main/index.php" rel="nofollow">Data Science Department</a><br /><a href="http://www.nec-labs.com/" rel="nofollow">NEC Laboratories America</a><br />NC 27599-3175, USA<br />Email:&nbsp;<a href="mailto:weicheng@nec-labs.com">weicheng [AT] nec-labs [DOT] com</a>&nbsp;<br />Homepage:&nbsp;<a title="homepage" href="https://chengw07.github.io">https://chengw07.github.io</a></h4>
 </td>
 </tr>
 </tbody>
 </table>
 <hr />
 <h3><a name="TOC-About-Me"></a>About Me</h3>
-<p><span style="font-family: arial, sans-serif; font-size: medium;"><strong>Wei Cheng is a Research Staff Member in Data Science Department at NEC Laboratories America. </strong></span><span style="font-family: arial, sans-serif; font-size: medium;"><strong> Here is my&nbsp;<a href="https://www.dropbox.com/s/i7ag5jk1gddqc4b/vita.pdf?dl=0" rel="nofollow">CV</a>.</strong></span></p>
+<p><span style="font-family: arial, sans-serif; font-size: medium;"><strong>Wei Cheng is a Senior Research Staff Member in Data Science Department at NEC Laboratories America. </strong></span><span style="font-family: arial, sans-serif; font-size: medium;"><strong> Here is my&nbsp;<a href="https://www.dropbox.com/s/i7ag5jk1gddqc4b/vita.pdf?dl=0" rel="nofollow">CV</a>.</strong></span></p>
 <h3><a name="TOC-Research-Interests"></a>Research Interests</h3>
 <ul>
 <li><span style="font-size: medium;"><strong>Data Science</strong>: Large-scale Data Mining, Time Series Analysis, System Anomaly Detection</span></li>
