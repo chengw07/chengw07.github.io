@@ -29,6 +29,10 @@
 </ul>
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
+<li>
+  <p><span style="font-size: medium;"><u>Robust Graph Representation Learning via Neural Sparsification.<br/></u>Cheng Zheng, Bo Zong, <strong>Wei Cheng</strong>, Dongjin Song, Jingchao Ni, Wenchao Yu, Haifeng Chen, Wei Wang<br /><em>International Conference on Machine Learning (ICML'20), 2020.</em>(To appear)
+ </span></p>
+ </li>
   <li>
 <p><span style="font-size: medium;"><u>You Are What You Do: Hunting Stealthy Malware via Data Provenance Analysis.<br /></u>Q. Wang, W. Hassan, D. Li, K. Jee, X. Yu, K. Zou, J. Rhee, Z. Chen, <strong>W. Cheng</strong>, C. Gunter, H. Chen<br /><em>The Network and Distributed System Security Symposium (NDSS'20), 2020.</em> (<strong><a href="https://www.ndss-symposium.org/wp-content/uploads/2020/02/24167.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
