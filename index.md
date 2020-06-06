@@ -194,7 +194,7 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 
 <h3><a name="TOC-Research-Experience"></a>Research Experience</h3>
 <ul>
-<li><span style="font-size: medium;">Research Staff Member: NEC Laboratories America, 2015.8-now.</span></li>
+<li><span style="font-size: medium;">Senior Research Staff Member: NEC Laboratories America, 2015.8-now.</span></li>
 <li><span style="font-size: medium;">Research Assistant: Data Mining, Bioinformatics, with&nbsp;<a href="http://www.cs.ucla.edu/~weiwang" rel="nofollow">Prof. Wei Wang</a>, University of North Carolina at Chapel Hill, Fall 2010-Summer 2015.</span></li>
 <li><span style="font-size: medium;">Research Intern: IBM Almaden Research, in Machine Learning Systems, Algorithms and Applications Group, with Dr. Alexandre V Evfimievski. 2014.6-2014.9</span></li>
 <li><span style="font-size: medium;">Research Intern: Tencent, Inc., in Machine Learning Group, with Dr. Zhifeng Yang, 2010.3-2010.7.</span></li>
