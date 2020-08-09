@@ -34,7 +34,7 @@
  </span></p>
  </li>
  <li>
-  <p><span style="font-size: medium;"><u>Node Classification in Temporal Graphs through Stochastic Sparsification and Temporal Structural Convolution.<br/></u>Cheng Zheng, Bo Zong, <strong>Wei Cheng</strong>, Dongjin Song, Jingchao Ni, Wenchao Yu, Haifeng Chen, Wei Wang<br /><em>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'20), 2020.</em>(To appear)
+  <p><span style="font-size: medium;"><u>Node Classification in Temporal Graphs through Stochastic Sparsification and Temporal Structural Convolution.<br/></u>Cheng Zheng, Bo Zong, <strong>Wei Cheng</strong>, Dongjin Song, Jingchao Ni, Wenchao Yu, Haifeng Chen, Wei Wang<br /><em>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'20), 2020.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ECML20.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
   <li>
