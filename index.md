@@ -30,7 +30,7 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
 <li>
-  <p><span style="font-size: medium;"><u>Robust Graph Representation Learning via Neural Sparsification.<br/></u>Cheng Zheng, Bo Zong, <strong>Wei Cheng</strong>, Dongjin Song, Jingchao Ni, Wenchao Yu, Haifeng Chen, Wei Wang<br /><em>International Conference on Machine Learning (ICML'20), 2020.</em>(To appear)
+  <p><span style="font-size: medium;"><u>Robust Graph Representation Learning via Neural Sparsification.<br/></u>Cheng Zheng, Bo Zong, <strong>Wei Cheng</strong>, Dongjin Song, Jingchao Ni, Wenchao Yu, Haifeng Chen, Wei Wang<br /><em>International Conference on Machine Learning (ICML'20), 2020.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICML20.pdf" rel="nofollow">PDF</a></strong>, <strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICML20_supp.pdf" rel="nofollow">Supp</a></strong>)
  </span></p>
  </li>
  <li>
