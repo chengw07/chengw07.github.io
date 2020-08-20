@@ -50,7 +50,7 @@
  </span></p>
 </li>
  <li>
-<p><span style="font-size: medium;"><u>Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series.<br /></u>D. Xu, <strong>*Wei Cheng</strong>, B. Zong, D. Song, J. Ni, W. Yu, Y. Liu, H. Chen, X. Zhang<br /><em>The 2020 AAAI International Conference on Artificial Intelligence (AAAI'20), 2020.(to appear)</em> (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI-XuD.6968.pdf" rel="nofollow">PDF</a></strong>)
+<p><span style="font-size: medium;"><u>Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series.<br /></u>D. Xu, <strong>*Wei Cheng</strong>, B. Zong, D. Song, J. Ni, W. Yu, Y. Liu, H. Chen, X. Zhang<br /><em>The 2020 AAAI International Conference on Artificial Intelligence (AAAI'20), 2020.(to appear)</em> (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI-XuD.6968.pdf" rel="nofollow">PDF</a></strong>) (<strong><a href="https://github.com/DerronXu/DeepTrends" rel="nofollow">Code</a></strong>)
  </span></p>
 </li>
  <li>
@@ -78,7 +78,7 @@
 Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em>In "eQTL Analysis: Methods and Protocols"(Book Chapter, Eds: Xinghua Mindy Shi), Chapter 8, Springer Press</em>. 2019 (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/MainChapter.pdf" rel="nofollow">PDF</a></strong>)</span></p>
 </li>
 <li>
-<p><span style="font-size: medium;"><u>Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs.<br /></u>Dongkuan Xu, *<strong>Wei Cheng</strong><span style="color: #454545; font-family: 'Helvetica Neue';">, Dongsheng Luo, Xiao Liu, Xiang Zhang</span><br /><em>In Proceedings of The 29th International Joint Conference on Artificial Intelligence (IJCAI'19)</em>. (<strong><a href="https://www.ijcai.org/proceedings/2019/0548.pdf" rel="nofollow">PDF</a></strong>)</span></p>
+<p><span style="font-size: medium;"><u>Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs.<br /></u>Dongkuan Xu, *<strong>Wei Cheng</strong><span style="color: #454545; font-family: 'Helvetica Neue';">, Dongsheng Luo, Xiao Liu, Xiang Zhang</span><br /><em>In Proceedings of The 29th International Joint Conference on Artificial Intelligence (IJCAI'19)</em>. (<strong><a href="https://www.ijcai.org/proceedings/2019/0548.pdf" rel="nofollow">PDF</a></strong>)</span> (<strong><a href="https://github.com/DerronXu/STAR" rel="nofollow">Code</a></strong>)</p>
 </li>
 <li>
 <p><span style="font-size: medium;"><u>Deep Co-Clustering.<br /></u>Dongkuan Xu, *<strong>Wei Cheng</strong><span style="color: #454545; font-family: 'Helvetica Neue';">, Bo Zong, Jingchao Ni, Dongjin Song, Wenchao Yu, Yuncong Chen, Haifeng Chen, Xiang Zhang</span><br /><em>In Proceedings of the 19th SIAM International Conference on Data Mining (SDM'19)</em>. (<strong><a href="https://www.dropbox.com/s/ki7g0izu9hvmctx/SDM2019.pdf?dl=0" rel="nofollow">PDF</a></strong>,&nbsp;<strong><a href="https://www.dropbox.com/s/nns62kaxj2wyszd/SDM2019_supp.pdf?dl=0" rel="nofollow">Supp</a></strong>,<strong><a href="https://github.com/DerronXu/Deep-Co-Clustering" rel="nofollow">Code</a></strong>)</span></p>
