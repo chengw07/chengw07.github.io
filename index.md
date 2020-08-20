@@ -34,7 +34,11 @@
  </span></p>
  </li>
  <li>
-  <p><span style="font-size: medium;"><u>Node Classification in Temporal Graphs through Stochastic Sparsification and Temporal Structural Convolution.<br/></u>Cheng Zheng, Bo Zong, <strong>Wei Cheng</strong>, Dongjin Song, Jingchao Ni, Wenchao Yu, Haifeng Chen, Wei Wang<br /><em>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'20), 2020.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ECML20.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Node Classification in Temporal Graphs through Stochastic Sparsification and Temporal Structural Convolution.<br/></u>Cheng Zheng, Bo Zong, <strong>Wei Cheng</strong>, Dongjin Song, Jingchao Ni, Wenchao Yu, Haifeng Chen, Wei Wang<br /><em>The 2020 edition of the IEEE International Conference on Data Mining series (ICDM'20)</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM20.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+ <li>
+  <p><span style="font-size: medium;"><u>T2-Net: A Semi-supervised Deep Model for Turbulence Forecasting.<br/></u>Denghui Zhang, Yanchi Liu, <strong>Wei Cheng</strong>, Bo Zong, Jingchao Ni, Zhengzhang Chen, Haifeng Chen, Hui Xiong<br /><em>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'20), 2020.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ECML20.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
   <li>
