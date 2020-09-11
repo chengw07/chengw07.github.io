@@ -2,7 +2,7 @@
 <tbody>
 <tr>
 <td>
-<div><a href="https://sites.google.com/site/weichengunc/home/weicheng.png?attredirects=0"><img src="https://sites.google.com/site/weichengunc/_/rsrc/1530629378071/home/weicheng.png?height=199&amp;width=200" width="200" height="199" border="0" /></a></div>
+<div><a href="https://sites.google.com/site/weichengunc/home/weicheng.png?attredirects=0"><img src="https://github.com/chengw07/chengw07.github.io/blob/master/ECML20.pdf?height=199&amp;width=200" width="200" height="199" border="0" /></a></div>
 </td>
 <td>
 <h2><a name="TOC-Wei-Cheng"></a><span style="color: #0000ff;">Wei Cheng</span></h2>
