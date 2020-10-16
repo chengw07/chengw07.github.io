@@ -30,6 +30,10 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
   
+  <li>
+  <p><span style="font-size: medium;"><u>Learning to Drop: Robust Graph Neural Network via Topological Denoising.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang<br /><em>The 14th ACM International WSDM Conference (WSDM'21), 2021.</em>(<strong><a href="http://personal.psu.edu/dul262/PGExplainer/PGExplainer.pdf" rel="nofollow">to appear</a></strong>, <strong><a href="https://github.com/flyingdoog/PGExplainer" rel="nofollow">code&data</a></strong>)
+ </span></p>
+ </li>
 <li>
   <p><span style="font-size: medium;"><u>Parameterized Explainer for Graph Neural Network.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang<br /><em>Conference on Neural Information Processing Systems (NeurIPS'20), 2020.</em>(<strong><a href="http://personal.psu.edu/dul262/PGExplainer/PGExplainer.pdf" rel="nofollow">PDF</a></strong>, <strong><a href="https://github.com/flyingdoog/PGExplainer" rel="nofollow">code&data</a></strong>)
  </span></p>
