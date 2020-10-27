@@ -16,9 +16,9 @@
 <p><span style="font-family: arial, sans-serif; font-size: medium;"><strong>Wei Cheng is a Senior Research Staff Member in Data Science Department at NEC Laboratories America. </strong></span><span style="font-family: arial, sans-serif; font-size: medium;"><strong> Here is my&nbsp;<a href="https://www.dropbox.com/s/i7ag5jk1gddqc4b/vita.pdf?dl=0" rel="nofollow">CV</a>.</strong></span></p>
 <h3><a name="TOC-Research-Interests"></a>Research Interests</h3>
 <ul>
-<li><span style="font-size: medium;"><strong>Data Science</strong>: Large-scale Data Mining, Time Series Analysis, System Anomaly Detection</span></li>
+<li><span style="font-size: medium;"><strong>Data Science</strong>: Large-scale Data Mining, Time Series Analysis, System Anomaly Detection, Recommendation</span></li>
 <li><span style="font-size: medium;"><strong>Machine Learning</strong>: Deep Learning, Graph Representation Learning, Transfer Learning, Matrix Factorization</span></li>
-<li><span style="font-size: medium;"><strong>Web Applications</strong>: Text Categorization, Sentiment Classification, Opinion Retrieval</span></li>
+<li><span style="font-size: medium;"><strong>Web Applications</strong>: Text Representation Learning</span></li>
 <li><span style="font-size: medium;"><strong>Bioinformatics</strong>: eQTL Study, Gene Pathway Analysis</span></li>
 </ul>
 <h3><a name="TOC-Education"></a>Education</h3>
@@ -31,7 +31,7 @@
 <ul>
   
   <li>
-  <p><span style="font-size: medium;"><u>Learning to Drop: Robust Graph Neural Network via Topological Denoising.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang<br /><em>The 14th ACM International WSDM Conference (WSDM'21), 2021.</em>(<strong><a href="http://personal.psu.edu/dul262/PGExplainer/PGExplainer.pdf" rel="nofollow">to appear</a></strong>, <strong><a href="https://github.com/flyingdoog/PGExplainer" rel="nofollow">code&data</a></strong>)
+  <p><span style="font-size: medium;"><u>Learning to Drop: Robust Graph Neural Network via Topological Denoising.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang<br /><em>The 14th ACM International WSDM Conference (WSDM'21), 2021.</em>(<strong><a href="http://personal.psu.edu/dul262/PTDNet/WSDM2021_PTDNet_camera_ready.pdf" rel="nofollow">to appear</a></strong>, <strong><a href="https://github.com/flyingdoog/PTDNet" rel="nofollow">code&data</a></strong>)
  </span></p>
  </li>
 <li>
