@@ -34,21 +34,11 @@
   <p><span style="font-size: medium;"><u>Learning to Drop: Robust Graph Neural Network via Topological Denoising.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang<br /><em>The 14th ACM International WSDM Conference (WSDM'21), 2021.</em>(<strong><a href="http://personal.psu.edu/dul262/PTDNet/WSDM2021_PTDNet_camera_ready.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
- <!-- This is a comment -->
-
-<strong><a href="https://github.com/flyingdoog/PTDNet" rel="nofollow">code&data</a></strong>
-
-<!-- Remember to add more information here -->
 
 <li>
   <p><span style="font-size: medium;"><u>Parameterized Explainer for Graph Neural Network.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang<br /><em>Conference on Neural Information Processing Systems (NeurIPS'20), 2020.</em>(<strong><a href="http://personal.psu.edu/dul262/PGExplainer/PGExplainer.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
- <!-- This is a comment -->
-
-<strong><a href="https://github.com/flyingdoog/PGExplainer" rel="nofollow">code&data</a></strong>
-
-<!-- Remember to add more information here -->
 
 <li>
   <p><span style="font-size: medium;"><u>Robust Graph Representation Learning via Neural Sparsification.<br/></u>Cheng Zheng, Bo Zong, <strong>Wei Cheng</strong>, Dongjin Song, Jingchao Ni, Wenchao Yu, Haifeng Chen, Wei Wang<br /><em>International Conference on Machine Learning (ICML'20), 2020.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICML20.pdf" rel="nofollow">PDF</a></strong>, <strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICML20_supp.pdf" rel="nofollow">Supp</a></strong>)
@@ -78,13 +68,6 @@
 <p><span style="font-size: medium;"><u>Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series.<br /></u>D. Xu, <strong>*Wei Cheng</strong>, B. Zong, D. Song, J. Ni, W. Yu, Y. Liu, H. Chen, X. Zhang<br /><em>The 2020 AAAI International Conference on Artificial Intelligence (AAAI'20), 2020.(to appear)</em> (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI-XuD.6968.pdf" rel="nofollow">PDF</a></strong>) 
  </span></p>
 </li>
-
-<!-- This is a comment -->
-
-(<strong><a href="https://github.com/DerronXu/DeepTrends" rel="nofollow">Code</a></strong>)
-
-<!-- Remember to add more information here -->
-
  <li>
 <p><span style="font-size: medium;"><u>Asymmetrical Hierarchical Networks with Attentive Interactions for Interpretable Review-based Recommendation.<br /></u>X. Dong, J. Ni, <strong>Wei Cheng</strong>, Z. Chen, B. Zong, D. Song, Y. Liu, H. Chen, G. Melo<br /><em>The 2020 AAAI International Conference on Artificial Intelligence (AAAI'20), 2020.(to appear)</em> (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI-DongX.6597.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
