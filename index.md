@@ -29,7 +29,18 @@
 </ul>
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
-  
+  <li>
+  <p><span style="font-size: medium;"><u>Multi-Task Recurrent Modular Networks.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Bo Zong, Wenchao Yu, Jingchao Ni, Dongjing Song, XuchaoZhang, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Con-ference on Artificial Intelligence (AAAI’21), 2021.</em>
+ </span></p>
+ </li>
+  <li>
+  <p><span style="font-size: medium;"><u>Transformer-StyleRelational Reasoning with Dynamic Memory Updating for Temporal Network Model-ing.<br/></u>Dongkuan Xu, Junjie Liang, <strong>Wei Cheng</strong>, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Con-ference on Artificial Intelligence (AAAI’21), 2021.</em>
+ </span></p>
+ </li>
+  <li>
+  <p><span style="font-size: medium;"><u>Dynamic Gaussian Mixture based Deep Generative Model For RobustForecasting on Sparse Multivariate Time Series.<br/></u>Yinjun Wu, Jingchao Ni, <strong>Wei Cheng</strong>, Bo Zong, Zhengzhang Chen, Dongjing Song, Haifeng Chen.<br /><em>The 2021 AAAI International Con-ference on Artificial Intelligence (AAAI’21), 2021.</em>
+ </span></p>
+ </li>
   <li>
   <p><span style="font-size: medium;"><u>Learning to Drop: Robust Graph Neural Network via Topological Denoising.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang<br /><em>The 14th ACM International WSDM Conference (WSDM'21), 2021.</em>(<strong><a href="http://personal.psu.edu/dul262/PTDNet/WSDM2021_PTDNet_camera_ready.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
