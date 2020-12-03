@@ -34,7 +34,7 @@
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>Transformer-Style Relational Reasoning with Dynamic Memory Updating for Temporal Network Modeling.<br/></u>Dongkuan Xu, Junjie Liang, <strong>Wei Cheng</strong>, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Conference on Artificial Intelligence (AAAI’21), 2021.</em>
+  <p><span style="font-size: medium;"><u>Transformer-Style Relational Reasoning with Dynamic Memory Updating for Temporal Network Modeling.<br/></u>Dongkuan Xu, Junjie Liang, <strong>Wei Cheng</strong>, Hua Wei, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Conference on Artificial Intelligence (AAAI’21), 2021.</em>
  </span></p>
  </li>
   <li>
