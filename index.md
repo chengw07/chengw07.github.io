@@ -47,7 +47,7 @@
  </li>
 
 <li>
-  <p><span style="font-size: medium;"><u>Parameterized Explainer for Graph Neural Network.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang<br /><em>Conference on Neural Information Processing Systems (NeurIPS'20), 2020.</em>(<strong><a href="http://personal.psu.edu/dul262/PGExplainer/PGExplainer.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Parameterized Explainer for Graph Neural Network.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang<br /><em>Conference on Neural Information Processing Systems (NeurIPS'20), 2020.</em>(<strong><a href="https://arxiv.org/pdf/2011.04573.pdf" rel="nofollow">PDF</a></strong><strong><a href="http://personal.psu.edu/dul262/PGExplainer/NeurIPS20_PGExplainer.pdf" rel="nofollow">Slides</a></strong><strong><a href="http://personal.psu.edu/dul262/PGExplainer/PGExplainer_poster.pdf" rel="nofollow">Poster</a></strong><strong><a href="https://github.com/flyingdoog/PGExplainer" rel="nofollow">Code</a></strong>)
  </span></p>
  </li>
 
