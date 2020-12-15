@@ -30,11 +30,11 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
   <li>
-  <p><span style="font-size: medium;"><u>Multi-Task Recurrent Modular Networks.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Bo Zong, Wenchao Yu, Jingchao Ni, Dongjing Song, Xuchao Zhang, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Conference on Artificial Intelligence (AAAI’21), 2021.</em>
+  <p><span style="font-size: medium;"><u>Multi-Task Recurrent Modular Networks.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Bo Zong, Wenchao Yu, Jingchao Ni, Dongjing Song, Xuchao Zhang, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Conference on Artificial Intelligence (AAAI’21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI21_1.pdf" rel="nofollow">PDF</a></strong>/strong>)
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>Transformer-Style Relational Reasoning with Dynamic Memory Updating for Temporal Network Modeling.<br/></u>Dongkuan Xu, Junjie Liang, <strong>Wei Cheng</strong>, Hua Wei, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Conference on Artificial Intelligence (AAAI’21), 2021.</em>
+  <p><span style="font-size: medium;"><u>Transformer-Style Relational Reasoning with Dynamic Memory Updating for Temporal Network Modeling.<br/></u>Dongkuan Xu, Junjie Liang, <strong>Wei Cheng</strong>, Hua Wei, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Conference on Artificial Intelligence (AAAI’21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI21_2.pdf" rel="nofollow">PDF</a></strong>/strong>)
  </span></p>
  </li>
   <li>
@@ -251,7 +251,7 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <h3><a name="TOC-Professional-Activities"></a>Professional Activities</h3>
 <ul>
 <li><span style="font-size: medium;">Area Chair: AAAI'21</span></li>
-<li><span style="font-size: medium;">SPC/PC Member or Reviewer: KDD'21, SIGIR'21, ICLR'21, NeurIPS'20, KDD'20, SIGIR'20, CIKM'20, AAAI'20, WSDM'20, AAAI'19, CIKM'18,&nbsp;ICDM'17, SDM'17, IJCAI'15, KDD'14, ECML PKDD'15,'16</span></li>
+<li><span style="font-size: medium;">SPC/PC Member or Reviewer: ICML'21, KDD'21, SIGIR'21, ICLR'21, NeurIPS'20, KDD'20, SIGIR'20, CIKM'20, AAAI'20, WSDM'20, AAAI'19, CIKM'18,&nbsp;ICDM'17, SDM'17, IJCAI'15, KDD'14, ECML PKDD'15,'16</span></li>
 <li><span style="font-size: medium;">Journal Reviewer: Nature Genetics, TPAMI, TNNLS, ACM Computing Surveys, TKDE, TKDD, Neurocomputing, IEEE Transactions on Cybernetics </span></li>
 </ul>
 <h3><a name="TOC-Teaching"></a>Teaching</h3>
