@@ -30,6 +30,10 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
   <li>
+  <p><span style="font-size: medium;"><u>Deep Multi-Instance Contrastive Learning with Dual Attention for Anomaly Precursor Detection.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Jingchao Ni, Dongsheng Luo, Masanao Natsumeda, Dongjing Song, Bo Zong, Haifeng Chen, Xiang Zhang.<br /><em>In Proceedings of the 21th SIAM International Conference on Data Mining (SDM'21)., 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/SDM21.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+  <li>
   <p><span style="font-size: medium;"><u>Multi-Task Recurrent Modular Networks.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Bo Zong, Wenchao Yu, Jingchao Ni, Dongjing Song, Xuchao Zhang, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Conference on Artificial Intelligence (AAAI’21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI21_1.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
