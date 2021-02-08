@@ -38,7 +38,7 @@
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>Transformer-Style Relational Reasoning with Dynamic Memory Updating for Temporal Network Modeling.<br/></u>Dongkuan Xu, Junjie Liang, <strong>Wei Cheng</strong>, Hua Wei, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Conference on Artificial Intelligence (AAAI’21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI21_2.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Transformer-Style Relational Reasoning with Dynamic Memory Updating for Temporal Network Modeling.<br/></u>Dongkuan Xu, Junjie Liang, <strong>Wei Cheng</strong>, Hua Wei, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Conference on Artificial Intelligence (AAAI’21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI21_2.pdf" rel="nofollow">PDF</a></strong>)(<strong><a href="https://github.com/DerronXu/DeepTrends" rel="nofollow">Code</a></strong>)
  </span></p>
  </li>
   <li>
@@ -54,8 +54,6 @@
   <p><span style="font-size: medium;"><u>Parameterized Explainer for Graph Neural Network.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang<br /><em>Conference on Neural Information Processing Systems (NeurIPS'20), 2020.</em>(<strong><a href="https://arxiv.org/pdf/2011.04573.pdf" rel="nofollow">PDF</a></strong>, <strong><a href="http://personal.psu.edu/dul262/PGExplainer/NeurIPS20_PGExplainer.pdf" rel="nofollow">Slides</a></strong>, <strong><a href="http://personal.psu.edu/dul262/PGExplainer/PGExplainer_poster.pdf" rel="nofollow">Poster</a></strong>, <strong><a href="https://github.com/flyingdoog/PGExplainer" rel="nofollow">Code&Data</a></strong>)(<strong><a href="http://personal.psu.edu/dul262/PGExplainer/NeurIPS20_PGExplainer.pdf" rel="nofollow">Slides</a></strong>)
  </span></p>
  </li>
-
-
 
 <li>
   <p><span style="font-size: medium;"><u>Robust Graph Representation Learning via Neural Sparsification.<br/></u>Cheng Zheng, Bo Zong, <strong>Wei Cheng</strong>, Dongjin Song, Jingchao Ni, Wenchao Yu, Haifeng Chen, Wei Wang<br /><em>International Conference on Machine Learning (ICML'20), 2020.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICML20.pdf" rel="nofollow">PDF</a></strong>, <strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICML20_supp.pdf" rel="nofollow">Supp</a></strong>)(<strong><a href="https://github.com/flyingdoog/PTDNet" rel="nofollow">Code</a></strong>)
@@ -82,7 +80,7 @@
  </span></p>
 </li>
  <li>
-<p><span style="font-size: medium;"><u>Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series.<br /></u>D. Xu, <strong>*Wei Cheng</strong>, B. Zong, D. Song, J. Ni, W. Yu, Y. Liu, H. Chen, X. Zhang<br /><em>The 2020 AAAI International Conference on Artificial Intelligence (AAAI'20), 2020.(to appear)</em> (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI-XuD.6968.pdf" rel="nofollow">PDF</a></strong>) 
+<p><span style="font-size: medium;"><u>Tensorized LSTM with Adaptive Shared Memory for Learning Trends in Multivariate Time Series.<br /></u>D. Xu, <strong>*Wei Cheng</strong>, B. Zong, D. Song, J. Ni, W. Yu, Y. Liu, H. Chen, X. Zhang<br /><em>The 2020 AAAI International Conference on Artificial Intelligence (AAAI'20), 2020.(to appear)</em> (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI-XuD.6968.pdf" rel="nofollow">PDF</a></strong>) (<strong><a href="https://github.com/DerronXu/DeepTrends" rel="nofollow">Code</a></strong>)
  </span></p>
 </li>
  <li>
@@ -95,7 +93,7 @@
 </li>
  <li><span style="font-size: medium;"><u>Temporal Context-Aware Representation Learning for Question Routing.</u>&nbsp;<br />Xuchao Zhang, <strong>Wei Cheng</strong>, Bo Zong, Yuncong Chen, Jianwu Xu, Ding Li, Haifeng Chen.<br /><em>The 13th ACM International WSDM Conference (WSDM'20)</em>, 2020. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/WSDM20_TCQR.pdf" rel="nofollow">PDF</a></strong>)<br /><br /></span>
  </li>
- <li><span style="font-size: medium;"><u>Interpretable Click-Through Rate Prediction through Hierarchical Attention.</u>&nbsp;<br />Zeyu Li, <strong>*Wei Cheng</strong>, Yang Chen, Haifeng Chen and Wei Wang.<br /><em>The 13th ACM International WSDM Conference (WSDM'20) </em>, 2020. (<strong>Oral Presentation</strong>,<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/WSDM20_InterHAt.pdf" rel="nofollow">PDF</a></strong>)<br /><br /></span>
+ <li><span style="font-size: medium;"><u>Interpretable Click-Through Rate Prediction through Hierarchical Attention.</u>&nbsp;<br />Zeyu Li, <strong>*Wei Cheng</strong>, Yang Chen, Haifeng Chen and Wei Wang.<br /><em>The 13th ACM International WSDM Conference (WSDM'20) </em>, 2020. (<strong>Oral Presentation</strong>,<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/WSDM20_InterHAt.pdf" rel="nofollow">PDF</a></strong>)(<strong><a href="https://github.com/zyli93/InterHAt" rel="nofollow">Code</a></strong>)<br /><br /></span>
  </li>
  
  <li><span style="font-size: medium;"><u>Learning Robust Representations with Graph Denoising Policy Network.</u>&nbsp;<br />Lu Wang, Wenchao Yu, Wei Wang, <strong>Wei Cheng</strong>, Hongyuan Zha, Wei Zhang, Xiaofeng He, and Haifeng Chen.<br /><em>The 2019 edition of the IEEE International Conference on Data Mining series (ICDM'19)</em>, 2019.(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/GDPNet.pdf" rel="nofollow">PDF</a></strong>)<br /><br /></span>
