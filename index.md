@@ -30,6 +30,10 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
   <li>
+  <p><span style="font-size: medium;"><u>FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems.<br/></u>Liang Tong, Zhengzhang Chen, Jingchao Ni, <strong>Wei Cheng</strong>, Dongjing Song, Yevgeniy Vorobeychik.<br /><em>In Proceedings of the 2021 Conference on Computer Vision and Pattern Recognition (CVPR'21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/SDM21.pdf" rel="nofollow">to appear</a></strong>)
+ </span></p>
+ </li>
+  <li>
   <p><span style="font-size: medium;"><u>Deep Multi-Instance Contrastive Learning with Dual Attention for Anomaly Precursor Detection.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Jingchao Ni, Dongsheng Luo, Masanao Natsumeda, Dongjing Song, Bo Zong, Haifeng Chen, Xiang Zhang.<br /><em>In Proceedings of the 21th SIAM International Conference on Data Mining (SDM'21)., 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/SDM21.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
