@@ -33,7 +33,10 @@
   <p><span style="font-size: medium;"><u>Unsupervised Concept Representation Learning for Length-Varying Text Similarity.<br/></u>Xuchao Zhang, Bo Zong, <strong>Wei Cheng</strong>, Jingchao Ni, Yanchi Liu and Haifeng Chen.<br /><em>In Proceedings of The 2021 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT'21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/SDM21.pdf" rel="nofollow">to appear</a></strong>)
  </span></p>
  </li>
-  
+  <li>
+  2021
+  </li>
+    
   <li>
   <p><span style="font-size: medium;"><u>FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems.<br/></u>Liang Tong, Zhengzhang Chen, Jingchao Ni, <strong>Wei Cheng</strong>, Dongjing Song, Yevgeniy Vorobeychik.<br /><em>In Proceedings of the 2021 Conference on Computer Vision and Pattern Recognition (CVPR'21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/SDM21.pdf" rel="nofollow">to appear</a></strong>)
  </span></p>
