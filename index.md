@@ -29,13 +29,13 @@
 </ul>
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
+    <strong>
+  2021
+  </strong>
   <li>
   <p><span style="font-size: medium;"><u>Unsupervised Concept Representation Learning for Length-Varying Text Similarity.<br/></u>Xuchao Zhang, Bo Zong, <strong>Wei Cheng</strong>, Jingchao Ni, Yanchi Liu and Haifeng Chen.<br /><em>In Proceedings of The 2021 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT'21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/SDM21.pdf" rel="nofollow">to appear</a></strong>)
  </span></p>
  </li>
-  <strong>
-  2021
-  </strong>
     
   <li>
   <p><span style="font-size: medium;"><u>FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems.<br/></u>Liang Tong, Zhengzhang Chen, Jingchao Ni, <strong>Wei Cheng</strong>, Dongjing Song, Yevgeniy Vorobeychik.<br /><em>In Proceedings of the 2021 Conference on Computer Vision and Pattern Recognition (CVPR'21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/SDM21.pdf" rel="nofollow">to appear</a></strong>)
@@ -61,7 +61,9 @@
   <p><span style="font-size: medium;"><u>Learning to Drop: Robust Graph Neural Network via Topological Denoising.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang<br /><em>The 14th ACM International WSDM Conference (WSDM'21), 2021.</em>(<strong><a href="http://personal.psu.edu/dul262/PTDNet/WSDM2021_PTDNet_camera_ready.pdf" rel="nofollow">PDF</a></strong>)(<strong><a href="https://github.com/flyingdoog/PTDNet" rel="nofollow">Code</a></strong>)
  </span></p>
  </li>
-
+  <strong>
+  2020
+  </strong>
 <li>
   <p><span style="font-size: medium;"><u>Parameterized Explainer for Graph Neural Network.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Dongkuan Xu, Wenchao Yu, Bo Zong, Haifeng Chen, Xiang Zhang<br /><em>Conference on Neural Information Processing Systems (NeurIPS'20), 2020.</em>(<strong><a href="https://arxiv.org/pdf/2011.04573.pdf" rel="nofollow">PDF</a></strong>, <strong><a href="http://personal.psu.edu/dul262/PGExplainer/NeurIPS20_PGExplainer.pdf" rel="nofollow">Slides</a></strong>, <strong><a href="http://personal.psu.edu/dul262/PGExplainer/PGExplainer_poster.pdf" rel="nofollow">Poster</a></strong>, <strong><a href="https://github.com/flyingdoog/PGExplainer" rel="nofollow">Code&Data</a></strong>)(<strong><a href="http://personal.psu.edu/dul262/PGExplainer/NeurIPS20_PGExplainer.pdf" rel="nofollow">Slides</a></strong>)(<strong><a href="https://openreview.net/forum?id=tt04glo-VrT" rel="nofollow">ML Reproducibility Challenge</a></strong>)
  </span></p>
@@ -106,6 +108,9 @@
  </li>
  <li><span style="font-size: medium;"><u>Interpretable Click-Through Rate Prediction through Hierarchical Attention.</u>&nbsp;<br />Zeyu Li, <strong>*Wei Cheng</strong>, Yang Chen, Haifeng Chen and Wei Wang.<br /><em>The 13th ACM International WSDM Conference (WSDM'20) </em>, 2020. (<strong>Oral Presentation</strong>,<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/WSDM20_InterHAt.pdf" rel="nofollow">PDF</a></strong>)(<strong><a href="https://github.com/zyli93/InterHAt" rel="nofollow">Code</a></strong>)<br /><br /></span>
  </li>
+   <strong>
+  2019
+  </strong>
  
  <li><span style="font-size: medium;"><u>Learning Robust Representations with Graph Denoising Policy Network.</u>&nbsp;<br />Lu Wang, Wenchao Yu, Wei Wang, <strong>Wei Cheng</strong>, Hongyuan Zha, Wei Zhang, Xiaofeng He, and Haifeng Chen.<br /><em>The 2019 edition of the IEEE International Conference on Data Mining series (ICDM'19)</em>, 2019.(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/GDPNet.pdf" rel="nofollow">PDF</a></strong>)<br /><br /></span>
  </li>
@@ -131,6 +136,9 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <li>
 <p><span style="font-size: medium;"><u>Population‐based identity‐by‐descent mapping combined with exome sequencing to detect rare risk variants for schizophrenia..<br /></u>Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ)<br /><em>The American Journal of Human Genetics,&nbsp;</em>, 2019.</span></p>
 </li>
+  <strong>
+  2018
+  </strong>
 
 <li>
 <p><span style="font-size: medium;"><u>Genomic Dissection of Bipolar Disorder and Schizophrenia, Including 28 Subphenotypes.</u><br /><span style="color: #000000;">Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ).</span><br /><strong><span style="color: #FF0000;">Cell</span></strong><span style="color: #666666;">, <span style="color: #000000;">2018.</span></span></span></p>
@@ -181,7 +189,9 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 
 <li><span style="font-size: medium;"><u>De-biasing Covariance-Regularized Discriminant Analysis</u><u>. <br /></u><span style="font-size: medium;">Haoyi Xiong,&nbsp;</span><strong>Wei Cheng</strong><span style="font-size: medium;">, Yanjie Fu,&nbsp;</span>Jiang Bian, Wenqing Hu and Zhishan Guo. <br /><span style="font-size: medium;"><em>The 28th International Joint Conference on Artificial Intelligence (IJCAI'18),</em> 2018.</span> (<a href="http://www.google.com/url?q=http%3A%2F%2Fresearch.baidu.com%2FPublic%2Fuploads%2F5b0e46416fd41.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGhcDVrI5Zg6jzlaafVTdMNEIHA3Q" target="_blank" rel="noopener">PDF</a><span style="color: #212121; font-family: Lato, sans-serif;">)<br /><br /></span></span></li>
 
-
+<strong>
+  2017
+  </strong>
 
 <li><span style="font-size: medium;"><u>Identifying and Quantifying Nonlinear Structured Relationships in Complex Manufactural Systems.</u><br />T. Xu, T. Yan, D. Song,&nbsp;<strong>Wei Cheng</strong>, H. Chen, G. Jiang and J. Bi<br /><em>IEEE International Conference on Big Data (Big Data 2017), Boston, MA, December</em>, 2017.<br /><br /></span></li>
 
@@ -212,6 +222,11 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <li><span style="font-size: medium;"><u>Genetic correlation between amyotrophic lateral sclerosis and schizophrenia</u>.<br /></span><span style="font-size: medium;">Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ).</span><br /><em><strong><span style="color: #ff0000; font-size: medium;">Nature Communications</span></strong></em>, 2017.<br /><br /></li>
 <li><u>Contribution of copy number variants to schizophrenia from a genome-wide study of 41,321 subjects</u><span style="font-size: medium;">.<br /></span><span style="font-size: medium;">Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ).<br /></span><strong><span style="color: #FF0000;"><em>Nature Genetics</em></span></strong>, 2017.(<a href="http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3725.html" rel="nofollow">paper</a>)<br /><br /></li>
 <li><span style="font-size: medium;"><u>Ranking Causal Anomalies for System Fault Diagnosis via Temporal and Dynamical Analysis on Vanishing Correlations</u>.&nbsp;<br /><strong>Wei Cheng</strong>, Jingcao Ni, Kai Zhang, Haifeng Chen, Guofei Jiang, Yu Shi, Xiang Zhang, Wei Wang.&nbsp;<br /><em>Transactions on Knowledge Discovery from Data (TKDD)</em>, 2017. (<a href="http://cs.unc.edu/~weicheng/TKDD17.pdf" rel="nofollow">Paper</a>)(<strong><span style="color: #FF0000;">Best Papers of KDD 2016</span></strong>)<br /><br /></span></li>
+
+<strong>
+  2016
+  </strong>
+
 <li><span style="font-size: medium;"><u>Self-Grouping Multi-Network Clustering</u>.&nbsp;<br />Jingcao Ni,&nbsp;<strong>Wei Cheng</strong>, Wei Fan, Xiang Zhang.&nbsp;<br /><em>In Proceedings of the IEEE International Conference on Data Mining series (ICDM'16)</em>, 2016. (<a href="http://cs.unc.edu/~weicheng/icdm16.pdf" rel="nofollow">Paper</a>)(<a href="http://cs.unc.edu/~weicheng/icdm16_sup.pdf" rel="nofollow">Appendix</a>)<br /><br /></span></li>
 <li><span style="font-size: medium;"><u>Ranking Causal Anomalies via Temporal and Dynamical Analysis on Vanishing Correlations</u>.<br /><strong>Wei Cheng</strong>, Kai Zhang, Haifeng Chen, Guofei Jiang, Zhengzhang Chen, Wei Wang.<br /><em>In Poceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining(SIGKDD'16)</em>, 2016. (<a href="http://www.kdd.org/awards/view/2016-sigkdd-best-paper-award-winners" rel="nofollow">Award</a>)(<a href="https://www.dropbox.com/s/y4fj4wtvho6vig1/KDD16.pdf?dl=0" rel="nofollow">paper</a>)(<a href="https://github.com/chengw07/CausalRanking" rel="nofollow">code</a>)(<strong><span style="color: #FF0000;">Best Paper Runner Up Award</span></strong>)(<strong><span style="color: #ff0000;"><a style="color: #FF0000;" href="https://www.dropbox.com/s/d1n5w2zgj677qyq/kdd16award.jpg?dl=0" rel="nofollow">Award Plaque</a></span></strong>)<br /><br /></span></li>
 <li><span style="font-size: medium;"><u>Genetic influences on schizophrenia and subcortical brain volumes: large-scale proof-of-concept and roadmap for future studies</u>.<br /><span style="font-size: medium;">Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ).</span><br /><span style="color: #ff0000;"><strong><em>Nature Neurosci</em></strong></span>, 2016.(<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852730/" rel="nofollow">paper</a>)<br /><br /></span></li>
@@ -219,6 +234,11 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <li><span style="font-size: medium;"><u>Sparse Regression Models for Unraveling Group and Individual Associations in eQTL Mapping.&nbsp;</u><br /><strong>Wei Cheng</strong>, Yu Shi, Xiang Zhang, Wei Wang.<br /><em>BMC Bioinformatics,</em>&nbsp;2016. (<a href="http://cs.unc.edu/~weicheng/BMC2016.pdf" rel="nofollow">PDF</a>)(<a href="http://cs.unc.edu/~weicheng/BMC2016appendix.pdf" rel="nofollow">Appendix</a>)<br /><br /></span></li>
 <li><span style="font-size: medium;"><u>CGC: A Flexible and Robust Approach to Integrating Co-Regularized Multi-Domain Graph for Clustering.</u><u>&nbsp;</u><br /><strong>Wei Cheng</strong>, Zhishan Guo, Xiang Zhang, Wei Wang.&nbsp;<br /><em>Transactions on Knowledge Discovery from Data (TKDD)</em>, 2016. (<a href="https://faculty.ist.psu.edu/xzz89/publications/CGC_KDD13.pdf" rel="nofollow">PDF</a>)<br /><br /></span></li>
 <li><span style="font-size: medium;"><u>Robust Methods for Expression Quantitative Trait Loci Mapping</u><u>.&nbsp;</u><br /><strong>Wei Cheng</strong>, Xiang Zhang, Wei Wang.<br /><em>Big Data Analytics in Genomics. Springer (New York)</em>, 2016. (<a href="http://cs.unc.edu/~weicheng/BDAG2016.pdf" rel="nofollow">PDF</a>)<br /><br /></span></li>
+
+<strong>
+  2015 and Before
+  </strong>
+
 <li><span style="font-size: medium;"><u>Toward Robust Group-Wise eQTL Mapping via Integrating Multi-Domain Heterogeneous Data.&nbsp;</u><br /><strong>Wei Cheng</strong>.<br /><em>Ph.D. Thesis, University of North Carolina at Chapel Hill</em>, 2015. (<a href="http://cs.unc.edu/~weicheng/thesis.pdf" rel="nofollow">PDF</a>)<br /><br /></span></li>
 <li><span style="font-size: medium;"><u>Robust Multi-Network Clustering via Joint Cross-Domain Cluster Alignment.</u><br />Rui Liu, *<strong>Wei Cheng</strong>, Hanghang Tong, Wei Wang, Xiang Zhang.&nbsp;<br /><em>Proceedings of the IEEE International Conference on Data Mining (ICDM'15)</em>, 2015. (<a href="https://www.dropbox.com/s/5bq7rah5g0efd4j/ICDM2015.pdf?dl=0" rel="nofollow">paper</a>) (*<strong>Joint First Author,&nbsp;</strong><strong><span style="color: #ff0000;">Knowl. Inf. Syst. (KAIS) on &ldquo;Bests of ICDM 2015&rdquo;</span></strong>)<br /><br /></span></li>
 <li><u>Modeling linkage disequilibrium increases accuracy of polygenic risk scores.<br /></u><span style="font-size: medium;">Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ).</span><br /><em>The American Journal of Human Genetics,&nbsp;</em>2015.<br /><br /></li>
