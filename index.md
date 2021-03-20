@@ -54,7 +54,7 @@
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>Dynamic Gaussian Mixture based Deep Generative Model For Robust Forecasting on Sparse Multivariate Time Series.<br/></u>Yinjun Wu, Jingchao Ni, <strong>Wei Cheng</strong>, Bo Zong, Zhengzhang Chen, Dongjing Song, Haifeng Chen.<br /><em>The 2021 AAAI International Con-ference on Artificial Intelligence (AAAI’21), 2021.</em>
+  <p><span style="font-size: medium;"><u>Dynamic Gaussian Mixture based Deep Generative Model For Robust Forecasting on Sparse Multivariate Time Series.<br/></u>Yinjun Wu, Jingchao Ni, <strong>Wei Cheng</strong>, Bo Zong, Zhengzhang Chen, Dongjing Song, Haifeng Chen.<br /><em>The 2021 AAAI International Con-ference on Artificial Intelligence (AAAI’21), 2021.</em>(<strong><a href=" https://arxiv.org/pdf/2103.02164.pdf" rel="nofollow">PDF</a></strong>)(<strong><a href="https://github.com/thuwuyinjun/DGM2" rel="nofollow">Code</a></strong>)
  </span></p>
  </li>
   <li>
