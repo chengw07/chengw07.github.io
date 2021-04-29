@@ -278,7 +278,7 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 </ul>
 <h3><a name="TOC-Tools-and-Data"></a>Tools and Data</h3>
 <ul>
-<li><span style="font-size: medium;">5000 synthetic time series data(<a href="http://cs.unc.edu/~weicheng/synthetics5000.csv" rel="nofollow">Download</a>)</span></li>
+<li><span style="font-size: medium;">5000 synthetic time series data(<a href="https://github.com/chengw07/chengw07.github.io/blob/master/synthetics5000.csv" rel="nofollow">Download</a>)</span></li>
 <li><span style="font-size: medium;">Graph regularized Dual lasso (GGD-Lasso)(<a href="http://cs.unc.edu/~weicheng/GGD.zip" rel="nofollow">Download</a>)</span></li>
 <li><span style="font-size: medium;">Fast and Robust Group-wise eQTL Mapping(<a href="http://cs.unc.edu/~weicheng/Group-Wise-EQTL.zip" rel="nofollow">Download</a>)</span></li>
 <li><span style="font-size: medium;">geQTL (<a href="http://cs.unc.edu/~weicheng/bioinformatics_code.zip" rel="nofollow">Download</a>)&nbsp;<a href="https://omictools.com/eqtl-mapping-category" target="_blank" rel="nofollow noopener"><img src="https://omictools.com/img/logo-blue.png" alt="OMICtools" /></a></span></li>
