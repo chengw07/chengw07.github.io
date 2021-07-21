@@ -42,7 +42,7 @@
  </li>
     
   <li>
-  <p><span style="font-size: medium;"><u>FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems.<br/></u>Liang Tong, Zhengzhang Chen, Jingchao Ni, <strong>Wei Cheng</strong>, Dongjing Song, Yevgeniy Vorobeychik.<br /><em>In Proceedings of the 2021 Conference on Computer Vision and Pattern Recognition (CVPR'21), 2021.</em>(<strong><a href="https://arxiv.org/pdf/2104.04107.pdf" rel="nofollow">to appear</a></strong>)
+  <p><span style="font-size: medium;"><u>FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems.<br/></u>Liang Tong, Zhengzhang Chen, Jingchao Ni, <strong>Wei Cheng</strong>, Dongjing Song, Yevgeniy Vorobeychik.<br /><em>In Proceedings of the 2021 Conference on Computer Vision and Pattern Recognition (CVPR'21), 2021.</em>(<strong><a href="https://arxiv.org/pdf/2104.04107.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
   <li>
