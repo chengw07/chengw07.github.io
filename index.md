@@ -33,7 +33,7 @@
   2021
   </strong>
     <li>
-  <p><span style="font-size: medium;"><u>Unsupervised Concept Representation Learning for Length-Varying Text Similarity.<br/></u>Lu Wang, Wenchao Yu, <strong>Wei Cheng</strong>, Bo Zong and Haifeng Chen.<br /><em>In Workshop of The 2021 ICML Workshop of Reinforcement Learning for Real Life (ICML Workshop), 2021.</em>(<strong><a href="https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8354" rel="nofollow">to appear</a></strong>)
+  <p><span style="font-size: medium;"><u>Hierarchical Imitation Learning with Contextual Bandits for Dynamic Treatment Regimes.<br/></u>Lu Wang, Wenchao Yu, <strong>Wei Cheng</strong>, Bo Zong and Haifeng Chen.<br /><em>In Workshop of The 2021 ICML Workshop of Reinforcement Learning for Real Life (ICML Workshop), 2021.</em>(<strong><a href="https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8354" rel="nofollow">to appear</a></strong>)
  </span></p>
  </li>
   <li>
