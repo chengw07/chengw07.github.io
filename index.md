@@ -34,7 +34,7 @@
   </strong>
     
    <li>
-  <p><span style="font-size: medium;"><u>You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation.<br/></u>Zeyu Li, <strong>*Wei Cheng</strong>, Haiqi Xiao, Wenchao Yu, Haifeng Chen, Wei Wang.<br /><em>In The Conference on Information and Knowledge Management (CIKM'21), 2021.</em>(<strong><a href="https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8354" rel="nofollow">to appear</a></strong>)
+  <p><span style="font-size: medium;"><u>You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation.<br/></u>Zeyu Li, <strong>*Wei Cheng</strong>, Haiqi Xiao, Wenchao Yu, Haifeng Chen, Wei Wang.<br /><em>In The Conference on Information and Knowledge Management (CIKM'21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICML2021.pdf" rel="nofollow">to appear</a></strong>)
  </span></p>
  </li> 
     <li>
