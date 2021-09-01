@@ -38,7 +38,7 @@
  </span></p>
  </li> 
     <li>
-  <p><span style="font-size: medium;"><u>Aspect-based Sentiment Classification via Reinforcement Learning.<br/></u>Masanao Natsumeda, Takehiko Mizoguchi, <strong>Wei Cheng</strong>, Yuncong Chen, Haifeng Chen.<br /><em>In IEEE International Conference on Big Knowledge (IEEE ICBK'21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">To Appear</a></strong>)
+  <p><span style="font-size: medium;"><u>Unsupervised anomaly detection under a multiple modeling strategy via model set optimization through transfer learning.<br/></u>Masanao Natsumeda, Takehiko Mizoguchi, <strong>Wei Cheng</strong>, Yuncong Chen, Haifeng Chen.<br /><em>In IEEE International Conference on Big Knowledge (IEEE ICBK'21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">To Appear</a></strong>)
  </span></p>
  </li> 
    <li>
