@@ -322,4 +322,4 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <h3><a name="TOC-Teaching"></a>Teaching</h3>
 <ul>
 <li><span style="font-size: medium;"><strong>Instructor:</strong><a href="http://www.cs.unc.edu/~weicheng/COMP110-001.htm" rel="nofollow">COMP 110-01: Introduction to Programming</a></span></li>
-</ul>
+</ul> 
