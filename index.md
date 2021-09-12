@@ -46,7 +46,7 @@
  </span></p>
  </li> 
     <li>
-  <p><span style="font-size: medium;"><u>Interpreting Convolutional Sequence Model by Learning Local Prototypes with Adaptation Regularization.<br/></u>Jingchao Ni, Zhengzhang Chen, <strong>Wei Cheng</strong>, Bo Zong, Dongjin Song, Yanchi Liu, Xuchao Zhang, Haifeng Chen.<br /><em>In The Conference on Information and Knowledge Management (CIKM'21), 2021.</em>(<strong><a href="https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8354" rel="nofollow">to appear</a></strong>)
+  <p><span style="font-size: medium;"><u>Interpreting Convolutional Sequence Model by Learning Local Prototypes with Adaptation Regularization.<br/></u>Jingchao Ni, Zhengzhang Chen, <strong>Wei Cheng</strong>, Bo Zong, Dongjin Song, Yanchi Liu, Xuchao Zhang, Haifeng Chen.<br /><em>In The Conference on Information and Knowledge Management (CIKM'21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIMK21-1.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
     <li>
