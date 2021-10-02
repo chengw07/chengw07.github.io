@@ -16,9 +16,9 @@
 <p><span style="font-family: arial, sans-serif; font-size: medium;"><strong>Wei Cheng is a Senior Research Staff Member in Data Science Department at NEC Laboratories America. </strong></span><span style="font-family: arial, sans-serif; font-size: medium;"><strong> Here is my&nbsp;<a href="https://www.dropbox.com/s/i7ag5jk1gddqc4b/vita.pdf?dl=0" rel="nofollow">CV</a>.</strong></span></p>
 <h3><a name="TOC-Research-Interests"></a>Research Interests</h3>
 <ul>
-<li><span style="font-size: medium;"><strong>Data Science</strong>: Large-scale Data Mining, Time Series Analysis, System Anomaly Detection, Recommendation</span></li>
-<li><span style="font-size: medium;"><strong>Machine Learning</strong>: Deep Learning, Graph Representation Learning, Transfer Learning, Matrix Factorization</span></li>
-<li><span style="font-size: medium;"><strong>Web Applications</strong>: Text Representation Learning</span></li>
+<li><span style="font-size: medium;"><strong>Data Science</strong>: Time Series Analysis, Anomaly Detection, Recommendation</span></li>
+<li><span style="font-size: medium;"><strong>Machine Learning</strong>: Deep Learning, GNN, Reinforcement Learning, Transfer Learnin</span></li>
+<li><span style="font-size: medium;"><strong>NLP</strong>: Text Representation Learning, Sentiment Analysis</span></li>
 <li><span style="font-size: medium;"><strong>Bioinformatics</strong>: eQTL Study, Gene Pathway Analysis</span></li>
 </ul>
 <h3><a name="TOC-Education"></a>Education</h3>
@@ -32,6 +32,15 @@
     <strong>
   2021
   </strong>
+    <li>
+  <p><span style="font-size: medium;"><u>InfoGCL: Information-Aware Graph Contrastive Learning.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Dongsheng Luo, Haifeng Chen, Xiang Zhang.<br /><em>In Conference on Neural Information Processing Systems, (NeurIPS’21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">To Appear</a></strong>)
+ </span></p>
+ </li> 
+    
+    <li>
+  <p><span style="font-size: medium;"><u>Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction.<br/></u>Zeyu Li, <strong>*Wei Cheng</strong>, Reema Kshetramade, John Houser, Haifeng Chen, Wei Wang.<br /><em>In The 14th ACM International EMNLP Conference (EMNLP'21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">To Appear</a></strong>)
+ </span></p>
+ </li> 
     
     <li>
   <p><span style="font-size: medium;"><u>Aspect-based Sentiment Classification via Reinforcement Learning.<br/></u>Lichen Wang, Bo Zong, Yunyu Liu, Can Qin, <strong>Wei Cheng</strong>, Wenchao Yu, Xuchao Zhang, Haifeng Chen, Yun Fu.<br /><em>In The 2021 edition of the IEEE International Conference on Data Mining series (ICDM'21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">To Appear</a></strong>)
