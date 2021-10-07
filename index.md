@@ -323,7 +323,7 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <h3><a name="TOC-Professional-Activities"></a>Professional Activities</h3>
 <ul>
 <li><span style="font-size: medium;">Area Chair: AAAI'21</span></li>
-<li><span style="font-size: medium;">SPC/PC Member or Reviewer: ICDE'22, ICLR'22, AAAI'22, WSDM'22, ICML'21, KDD'21, SIGIR'21, ICLR'21, CIKM'21, NeurIPS'20, KDD'20, SIGIR'20, CIKM'20, AAAI'20, WSDM'20, AAAI'19, CIKM'18,&nbsp;ICDM'17, SDM'17, IJCAI'15, KDD'14, ECML PKDD'15,'16</span></li>
+<li><span style="font-size: medium;">SPC/PC Member or Reviewer: ICDE'22, ICLR'22, AAAI'22, SDM'22, WSDM'22, ICML'21, KDD'21, SIGIR'21, ICLR'21, CIKM'21, NeurIPS'20, KDD'20, SIGIR'20, CIKM'20, AAAI'20, WSDM'20, AAAI'19, CIKM'18,&nbsp;ICDM'17, SDM'17, IJCAI'15, KDD'14, ECML PKDD'15,'16</span></li>
 <li><span style="font-size: medium;">Journal Reviewer: Nature Genetics, TPAMI, TNNLS, ACM Computing Surveys, TKDE, TKDD, Neurocomputing, IEEE Transactions on Cybernetics </span></li>
 </ul>
 <h3><a name="TOC-Teaching"></a>Teaching</h3>
