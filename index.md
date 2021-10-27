@@ -33,15 +33,15 @@
   2021
   </strong>
     <li>
-  <p><span style="font-size: medium;"><u>InfoGCL: Information-Aware Graph Contrastive Learning.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Dongsheng Luo, Haifeng Chen, Xiang Zhang.<br /><em>In Conference on Neural Information Processing Systems, (NeurIPS’21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">To Appear</a></strong>)
+  <p><span style="font-size: medium;"><u>InfoGCL: Information-Aware Graph Contrastive Learning.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Dongsheng Luo, Haifeng Chen, Xiang Zhang.<br /><em>In Conference on Neural Information Processing Systems, (NeurIPS’21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL.pdf" rel="nofollow">PDF</a></strong>,<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL_supp.pdf" rel="nofollow">Supp</a></strong>)
  </span></p>
  </li> 
     <li>
-  <p><span style="font-size: medium;"><u>Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction.<br/></u>Zeyu Li, <strong>*Wei Cheng</strong>, Reema Kshetramade, John Houser, Haifeng Chen, Wei Wang.<br /><em>In The 14th ACM International EMNLP Conference (EMNLP'21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">To Appear</a></strong>)
+  <p><span style="font-size: medium;"><u>Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction.<br/></u>Zeyu Li, <strong>*Wei Cheng</strong>, Reema Kshetramade, John Houser, Haifeng Chen, Wei Wang.<br /><em>In The 14th ACM International EMNLP Conference (EMNLP'21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/EMNLP.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li> 
     <li>
-  <p><span style="font-size: medium;"><u>Aspect-based Sentiment Classification via Reinforcement Learning.<br/></u>Lichen Wang, Bo Zong, Yunyu Liu, Can Qin, <strong>Wei Cheng</strong>, Wenchao Yu, Xuchao Zhang, Haifeng Chen, Yun Fu.<br /><em>In The 2021 edition of the IEEE International Conference on Data Mining series (ICDM'21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">To Appear</a></strong>)
+  <p><span style="font-size: medium;"><u>Aspect-based Sentiment Classification via Reinforcement Learning.<br/></u>Lichen Wang, Bo Zong, Yunyu Liu, Can Qin, <strong>Wei Cheng</strong>, Wenchao Yu, Xuchao Zhang, Haifeng Chen, Yun Fu.<br /><em>In The 2021 edition of the IEEE International Conference on Data Mining series (ICDM'21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li> 
     <li>
