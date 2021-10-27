@@ -37,7 +37,7 @@
  </span></p>
  </li> 
     <li>
-  <p><span style="font-size: medium;"><u>Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction.<br/></u>Zeyu Li, <strong>*Wei Cheng</strong>, Reema Kshetramade, John Houser, Haifeng Chen, Wei Wang.<br /><em>In The 14th ACM International EMNLP Conference (EMNLP'21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/EMNLP.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction.<br/></u>Zeyu Li, <strong>*Wei Cheng</strong>, Reema Kshetramade, John Houser, Haifeng Chen, Wei Wang.<br /><em>In The 14th ACM International EMNLP Conference (EMNLP'21).</em>(<strong><a href="https://arxiv.org/pdf/2109.03821.pdf" rel="nofollow">PDF</a></strong>, <strong><a href="https://github.com/zyli93/ASPE-APRE" rel="nofollow">Code</a></strong>)
  </span></p>
  </li> 
     <li>
@@ -49,7 +49,7 @@
  </span></p>
  </li> 
    <li>
-  <p><span style="font-size: medium;"><u>You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation.<br/></u>Zeyu Li, <strong>*Wei Cheng</strong>, Haiqi Xiao, Wenchao Yu, Haifeng Chen, Wei Wang.<br /><em>In The Conference on Information and Knowledge Management (CIKM'21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation.<br/></u>Zeyu Li, <strong>*Wei Cheng</strong>, Haiqi Xiao, Wenchao Yu, Haifeng Chen, Wei Wang.<br /><em>In The Conference on Information and Knowledge Management (CIKM'21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">PDF</a></strong>, <strong><a href="https://github.com/zyli93/GEAPR" rel="nofollow">Code</a></strong>)
  </span></p>
  </li> 
     <li>
