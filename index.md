@@ -15,12 +15,12 @@
 <h3><a name="TOC-About-Me"></a>About Me</h3>
 <p><span style="font-family: arial, sans-serif; font-size: medium;" align="center">Wei Cheng is a Senior Researcher at NEC Labs America. He received his Ph.D. from the Department of Computer Science, UNC at Chapel Hill in 2015, advised by <a href="http://web.cs.ucla.edu/~weiwang/" rel="nofollow">Prof. Wei Wang</a>. His research interests include data science, machine learning and bioinformatics. He has filed more than sixty patents, and has published more than ninety research papers in top-tier conferences such as NeurIPS, ICML, SIGKDD, ICLR, WWW, EMNLP, ISMB and journals such as Nature, Science, TNNLS, TKDE, Bioinformatics, etc. His research results received <a href="https://www.kdd.org/awards/view/2016-sigkdd-best-paper-award-winners" rel="nofollow">Best Research Paper Runner-Up Award at SIGKDD 2016</a> and were nominated for the Best Paper Award at ICDM 2018, ICDM 2017, ICDM 2015 and SDM 2012. He has also served as area chair, senior program committee member for several top-tier conferences including SIGKDD, IJCAI, SDM, AAAI, WSDM, etc. </span></p>
 <p style="text-align:center">
-                <a href="mailto:chengw02@gmail.com">Email</a> &nbsp/&nbsp
-        <!-- <a href=        <a href="CV.pdf">CV (Oct. 2021)</a> &nbsp/&nbsp  -->
-        <!--        <a href="https://twitter.com/DongkuanXu">Twitter</a> &nbsp/&nbsp -->
-                <a href="https://scholar.google.com/citations?user=PRrGVmoAAAAJ&hl=en">Google Scholar</a> &nbsp/&nbsp
-                <a href="https://www.linkedin.com/in/wei-cheng-ml">LinkedIn</a> &nbsp&nbsp
-                <a href="https://github.com/chengw07">GitHub</a> &nbsp/&nbsp
+                <a href="mailto:chengw02@gmail.com">Email</a>    
+        <!-- <a href=        <a href="CV.pdf">CV (Oct. 2021)</a>       -->
+        <!--        <a href="https://twitter.com/DongkuanXu">Twitter</a>  -->
+                <a href="https://scholar.google.com/citations?user=PRrGVmoAAAAJ&hl=en">Google Scholar</a>   
+                <a href="https://www.linkedin.com/in/wei-cheng-ml">LinkedIn</a>      
+                <a href="https://github.com/chengw07">GitHub</a>     
 <!--                 <a href="http://www.weibo.com/2812373864/profile?topnav=1&wvr=6">Weibo</a> -->
               </p>
 <h3><a name="TOC-Research-Interests"></a>Research Interests</h3>
