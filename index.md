@@ -83,7 +83,7 @@
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>Multi-Task Recurrent Modular Networks.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Bo Zong, Wenchao Yu, Jingchao Ni, Dongjing Song, Xuchao Zhang, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Conference on Artificial Intelligence (AAAI’21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI21_1.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Multi-Task Recurrent Modular Networks.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Bo Zong, Wenchao Yu, Jingchao Ni, Dongjing Song, Xuchao Zhang, Haifeng Chen, Xiang Zhang.<br /><em>The 2021 AAAI International Conference on Artificial Intelligence (AAAI’21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/AAAI21_1.pdf" rel="nofollow">PDF</a></strong>)(<strong><span style="color: #ff0000;"><em>Similar Structure as Google <a href="https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/" rel="nofollow">PathWays</a></em></span></strong>)   
  </span></p>
  </li>
   <li>
