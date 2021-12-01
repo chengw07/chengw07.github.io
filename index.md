@@ -39,10 +39,22 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
     <strong>
+  2022
+  </strong>
+    <li>
+  <p><span style="font-size: medium;"><u>Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph.<br/></u>Liyan Xu, Xuchao Zhang, Bo Zong, Yanchi Liu, <strong>Wei Cheng</strong>, Jingchao Ni, Haifeng Chen, Zhao Liang, 
+Jinho D. Choi.<br /><em>In The 2022 AAAI International Conference on Artificial Intelligence (AAAI'22).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL.pdf" rel="nofollow">to appear</a></strong>)
+ </span></p>
+ </li> 
+    <strong>
   2021
   </strong>
     <li>
   <p><span style="font-size: medium;"><u>InfoGCL: Information-Aware Graph Contrastive Learning.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Dongsheng Luo, Haifeng Chen, Xiang Zhang.<br /><em>In Conference on Neural Information Processing Systems, (NeurIPS’21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL.pdf" rel="nofollow">PDF</a></strong>,<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL_supp.pdf" rel="nofollow">Supp</a></strong>)
+ </span></p>
+ </li> 
+  <li>
+  <p><span style="font-size: medium;"><u>Dynamic Causal Discovery in Imitation Learning.<br/></u>Tianxiang Zhao, Wenchao Yu, Lu Wang, Shuhang Wang, <strong>Wei Cheng</strong>, Xiang Zhang, Yuncong Chen, Xuchao Zhang, Haifeng Chen.<br /><em>In Sequential Decision Making: Bridging Theory and Practice (NeurIPS Workshop).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL.pdf" rel="nofollow">to appear</a></strong>)
  </span></p>
  </li> 
     <li>
