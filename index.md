@@ -45,6 +45,10 @@
   <p><span style="font-size: medium;"><u>Superclass-Conditional Gaussian Mixture Model For Learning Fine-Grained Embeddings.<br/></u>Jingchao Ni, <strong>Wei Cheng</strong>, Zhengzhang Chen, Takayoshi Asakura, Tomoya Soma, Sho Kato, Haifeng Chen.<br /><em>In International Conference on Learning Representations (ICLR'22).</em>(<strong><a href="https://openreview.net/pdf?id=vds4SNooOe" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li> 
+  <li>
+  <p><span style="font-size: medium;"><u>InfoGCL: Information-Aware Graph Contrastive Learning.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Dongsheng Luo, Haifeng Chen, Xiang Zhang.<br /><em>In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'22).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL.pdf" rel="nofollow">To Appear</a></strong>)
+ </span></p>
+ </li> 
     <li>
   <p><span style="font-size: medium;"><u>Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph.<br/></u>Liyan Xu, Xuchao Zhang, Bo Zong, Yanchi Liu, <strong>Wei Cheng</strong>, Jingchao Ni, Haifeng Chen, Zhao Liang, 
 Jinho D. Choi.<br /><em>In The 2022 AAAI International Conference on Artificial Intelligence (AAAI'22).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL.pdf" rel="nofollow">to appear</a></strong>)
@@ -53,9 +57,8 @@ Jinho D. Choi.<br /><em>In The 2022 AAAI International Conference on Artificial 
     <strong>
   2021
   </strong>
-
-    <li>
-  <p><span style="font-size: medium;"><u>InfoGCL: Information-Aware Graph Contrastive Learning.<br/></u>Dongkuan Xu, <strong>*Wei Cheng</strong>, Dongsheng Luo, Haifeng Chen, Xiang Zhang.<br /><em>In Conference on Neural Information Processing Systems, (NeurIPS’21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL.pdf" rel="nofollow">PDF</a></strong>,<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL_supp.pdf" rel="nofollow">Supp</a></strong>)
+  <li>
+  <p><span style="font-size: medium;"><u>SEED: Sound Event Early Detection via Evidential Uncertainty.<br/></u>Xujiang Zhao, Xuchao Zhang, <strong>Wei Cheng</strong>, Wenchao Yu, Yuncong Chen, Haifeng Chen, Feng Chen.<br /><em>In Conference on Neural Information Processing Systems, (NeurIPS’21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL.pdf" rel="nofollow">PDF</a></strong>,<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL_supp.pdf" rel="nofollow">Supp</a></strong>)
  </span></p>
  </li> 
   <li>
