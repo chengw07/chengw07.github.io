@@ -42,6 +42,10 @@
   2022
   </strong>
   <li>
+  <p><span style="font-size: medium;"><u>CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences.<br/></u>Shengming Zhang, Yanchi Liu, Xuchao Zhang, <strong>Wei Cheng</strong>, Haifeng Chen, Hui Xiong.<br /><em>In 2022 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'22).</em>
+ </span></p>
+ </li> 
+  <li>
   <p><span style="font-size: medium;"><u>Superclass-Conditional Gaussian Mixture Model For Learning Fine-Grained Embeddings.<br/></u>Jingchao Ni, <strong>Wei Cheng</strong>, Zhengzhang Chen, Takayoshi Asakura, Tomoya Soma, Sho Kato, Haifeng Chen.<br /><em>In International Conference on Learning Representations (ICLR'22).</em>(<strong><a href="https://openreview.net/pdf?id=vds4SNooOe" rel="nofollow">PDF</a></strong>)(<em><strong><span style="color: #ff0000;"><em>Spotlight</em></span></strong></em>)
  </span></p>
  </li> 
