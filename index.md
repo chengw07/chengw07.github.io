@@ -275,8 +275,7 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 
 
 <li><span style="font-size: medium;"><u>Link Prediction with Spatial and Temporal Consistency in Dynamic Networks.</u>&nbsp;<br />Wenchao Yu,&nbsp;<strong>*Wei Cheng</strong>, Wei Wang, Charu C Aggarwal, Haifeng Chen.&nbsp;<br /><em>Proc. 27th Intl. Joint Conf. on Artificial Intelligence (IJCAI'17)</em>, 2017. (<a href="http://cs.unc.edu/~weicheng/ijcai2017.pdf" rel="nofollow">PDF</a>)<br /><br /></span></li>
-<li><span style="font-size: medium;"><u>A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction.</u>&nbsp;<br />Yao Qin, Dongjin Song, Haifeng Chen,&nbsp;<strong>Wei Cheng</strong>, Geoff Jiang, Garrison Cottrell.&nbsp;<br /><em>Proc. 27th Intl. Joint Conf. on Artificial Intelligence (IJCAI'17)</em>, 2017. (<a href="http://cs.unc.edu/~weicheng/ijcai2017-2.pdf" rel="nofollow">PDF</a>)<br /><br /></span></li>  <a href="[http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3725.html](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/)" rel="nofollow"><strong><span style="color: #FF0000;">Most influential papers on IJCAI'17 by paperdigest.org</span></strong></a>)
-  
+<li><span style="font-size: medium;"><u>A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction.</u>&nbsp;<br />Yao Qin, Dongjin Song, Haifeng Chen,&nbsp;<strong>Wei Cheng</strong>, Geoff Jiang, Garrison Cottrell.&nbsp;<br /><em>Proc. 27th Intl. Joint Conf. on Artificial Intelligence (IJCAI'17)</em>, 2017. (<a href="http://cs.unc.edu/~weicheng/ijcai2017-2.pdf" rel="nofollow">PDF</a>).(<a href="https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/" rel="nofollow"><strong><span style="color: #FF0000;">Most influential papers on IJCAI'17 by paperdigest.org</span></strong></a>)<br /><br /></span></li>  
   
   
 
