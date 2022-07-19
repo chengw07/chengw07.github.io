@@ -275,7 +275,10 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 
 
 <li><span style="font-size: medium;"><u>Link Prediction with Spatial and Temporal Consistency in Dynamic Networks.</u>&nbsp;<br />Wenchao Yu,&nbsp;<strong>*Wei Cheng</strong>, Wei Wang, Charu C Aggarwal, Haifeng Chen.&nbsp;<br /><em>Proc. 27th Intl. Joint Conf. on Artificial Intelligence (IJCAI'17)</em>, 2017. (<a href="http://cs.unc.edu/~weicheng/ijcai2017.pdf" rel="nofollow">PDF</a>)<br /><br /></span></li>
-<li><span style="font-size: medium;"><u>A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction.</u>&nbsp;<br />Yao Qin, Dongjin Song, Haifeng Chen,&nbsp;<strong>Wei Cheng</strong>, Geoff Jiang, Garrison Cottrell.&nbsp;<br /><em>Proc. 27th Intl. Joint Conf. on Artificial Intelligence (IJCAI'17)</em>, 2017. (<a href="http://cs.unc.edu/~weicheng/ijcai2017-2.pdf" rel="nofollow">PDF</a>)<br /><br /></span></li>
+<li><span style="font-size: medium;"><u>A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction.</u>&nbsp;<br />Yao Qin, Dongjin Song, Haifeng Chen,&nbsp;<strong>Wei Cheng</strong>, Geoff Jiang, Garrison Cottrell.&nbsp;<br /><em>Proc. 27th Intl. Joint Conf. on Artificial Intelligence (IJCAI'17)</em>, 2017. (<a href="http://cs.unc.edu/~weicheng/ijcai2017-2.pdf" rel="nofollow">PDF</a>)<br /><br /></span></li>  <a href="[http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3725.html](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/)" rel="nofollow"><strong><span style="color: #FF0000;">Most influential papers on IJCAI'17 by paperdigest.org</span></strong></a>)
+  
+  
+  
 
 
 <li><span style="font-size: medium;"><u>Many Heads are Better than One: Local Community Detection by the Multi-Walker Chain.</u>&nbsp;<br />Yuchen Bian, Jingchao Ni,&nbsp;<strong>Wei Cheng</strong>, Xiang Zhang.<br /><em>The 2017 edition of the IEEE International Conference on Data Mining series (ICDM'17)</em>, 2017. (<strong><span style="color: #FF0000;">Knowl. Inf. Syst. (KAIS) on &ldquo;Bests of ICDM 2017&rdquo;</span></strong>)<br /><br /></span></li>
@@ -366,7 +369,7 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <ul>
  <li><span style="font-size: medium;">Chair: IJCAI'22 WORKSHOP, AI4TS: AI FOR TIME SERIES ANALYSIS</span></li>
 <li><span style="font-size: medium;">Area Chair: AAAI'23, AAAI'21</span></li>
-<li><span style="font-size: medium;">SPC/PC Member or Reviewer: NeurIPS'22, ICML'22, CIKM'22, SIGKDD'22, SIGIR'22, ICDE'22, ICLR'22, AAAI'22, SDM'22, WSDM'22, ICML'21, KDD'21, SIGIR'21, ICLR'21, CIKM'21, NeurIPS'20, KDD'20, SIGIR'20, CIKM'20, AAAI'20, WSDM'20, AAAI'19, CIKM'18,&nbsp;ICDM'17, SDM'17, IJCAI'15, KDD'14, ECML PKDD'15,'16</span></li>
+<li><span style="font-size: medium;">SPC/PC Member or Reviewer: WSDM'23, NeurIPS'22, ICML'22, CIKM'22, SIGKDD'22, SIGIR'22, ICDE'22, ICLR'22, AAAI'22, SDM'22, WSDM'22, ICML'21, KDD'21, SIGIR'21, ICLR'21, CIKM'21, NeurIPS'20, KDD'20, SIGIR'20, CIKM'20, AAAI'20, WSDM'20, AAAI'19, CIKM'18,&nbsp;ICDM'17, SDM'17, IJCAI'15, KDD'14, ECML PKDD'15,'16</span></li>
 <li><span style="font-size: medium;">Journal Reviewer: Nature Genetics, TPAMI, TMLR, TNNLS, ACM Computing Surveys, TKDE, TKDD, Neurocomputing, IEEE Transactions on Cybernetics </span></li>
 </ul>
 <h3><a name="TOC-Teaching"></a>Teaching</h3>
