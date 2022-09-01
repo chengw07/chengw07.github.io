@@ -42,6 +42,10 @@
   2022
   </strong>
   <li>
+  <p><span style="font-size: medium;"><u>Personalized Federated Learning via Heterogeneous Modular Networks.<br/></u>Tianchun Wang, <strong>Wei Cheng</strong>, Dongsheng Luo, Wenchao Yu, Jingchao Ni, Liang Tong, Haifeng Chen, Xiang Zhang..<br /><em>In 2022 IEEE International Conference on Data Mining (ICDM'22).</em>
+ </span></p>
+ </li> 
+  <li>
   <p><span style="font-size: medium;"><u>CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences.<br/></u>Shengming Zhang, Yanchi Liu, Xuchao Zhang, <strong>Wei Cheng</strong>, Haifeng Chen, Hui Xiong.<br /><em>In 2022 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'22).</em>
  </span></p>
  </li> 
