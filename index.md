@@ -42,7 +42,7 @@
   2022
   </strong>
   <li>
-  <p><span style="font-size: medium;"><u>Personalized Federated Learning via Heterogeneous Modular Networks.<br/></u>Tianchun Wang, <strong>*Wei Cheng</strong>, Dongsheng Luo, Wenchao Yu, Jingchao Ni, Liang Tong, Haifeng Chen, Xiang Zhang..<br /><em>In 2022 IEEE International Conference on Data Mining (ICDM'22).</em>
+  <p><span style="font-size: medium;"><u>Personalized Federated Learning via Heterogeneous Modular Networks.<br/></u>Tianchun Wang, <strong>*Wei Cheng</strong>, Dongsheng Luo, Wenchao Yu, Jingchao Ni, Liang Tong, Haifeng Chen, Xiang Zhang..<br /><em>In 2022 IEEE International Conference on Data Mining (ICDM'22).</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li> 
   <li>
