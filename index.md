@@ -350,8 +350,9 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <h3><a name="TOC-Awards"></a>Awards</h3>
 <ul>
 <li><span style="font-size: medium;">NEC Global Innovation Unit Outstanding Value Award, 2022</span></li>
+<li><span style="font-size: medium;">NEC Business Contribution Award, Oct 2022</span></li>
 <li><span style="font-size: medium;">NEC DX Innovator 100, 2022</span></li>
-<li><span style="font-size: medium;">NEC Business Contribution Award, 2022</span></li>
+<li><span style="font-size: medium;">NEC Business Contribution Award, May 2022</span></li>
 <li><span style="font-size: medium;">NEC Business Contribution Award, 2021</span></li>
 <li><span style="font-size: medium;">Knowl. Inf. Syst. (KAIS) on &ldquo;Bests of ICDM 2018&rdquo;</span></li>
 <li><span style="font-size: medium;">Knowl. Inf. Syst. (KAIS) on &ldquo;Bests of ICDM 2017&rdquo;</span></li>
