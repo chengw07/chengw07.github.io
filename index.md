@@ -46,6 +46,10 @@
  </span></p>
  </li> 
   <li>
+  <p><span style="font-size: medium;"><u>Deep Federated Anomaly Detectiion for Multivariate Time Series Data.<br/></u>Wei zhu, Dongjin Song, Yuncong Chen, <strong>Wei Cheng</strong>, Bo Zong, Takehiko Mizoguchi, Cristian Lumezanu, Haifeng Chen, Jiebo Luo.<br /><em>In 2022 IEEE International Conference on Big Data (IEEE Big Data).</em>. 
+ </span></p>
+ </li> 
+  <li>
   <p><span style="font-size: medium;"><u>CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences.<br/></u>Shengming Zhang, Yanchi Liu, Xuchao Zhang, <strong>Wei Cheng</strong>, Haifeng Chen, Hui Xiong.<br /><em>In 2022 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'22).</em>
  </span></p>
  </li> 
