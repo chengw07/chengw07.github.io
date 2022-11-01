@@ -46,7 +46,7 @@
  </span></p>
  </li> 
   <li>
-  <p><span style="font-size: medium;"><u>Deep Federated Anomaly Detectiion for Multivariate Time Series Data.<br/></u>Wei zhu, Dongjin Song, Yuncong Chen, <strong>Wei Cheng</strong>, Bo Zong, Takehiko Mizoguchi, Cristian Lumezanu, Haifeng Chen, Jiebo Luo.<br /><em>In 2022 IEEE International Conference on Big Data (IEEE Big Data).</em>. 
+  <p><span style="font-size: medium;"><u>Deep Federated Anomaly Detectiion for Multivariate Time Series Data.<br/></u>Wei zhu, Dongjin Song, Yuncong Chen, <strong>Wei Cheng</strong>, Bo Zong, Takehiko Mizoguchi, Cristian Lumezanu, Haifeng Chen, Jiebo Luo.<br /><em>In 2022 IEEE International Conference on Big Data (IEEE Big Data).</em>
  </span></p>
  </li> 
   <li>
