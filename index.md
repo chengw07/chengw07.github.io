@@ -42,9 +42,14 @@
   2023
   </strong>
   <li>
+  <p><span style="font-size: medium;"><u>Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning.<br/></u>Dongsheng Luo, Chen Ling, Xuchao Zhang, Xujiang Zhao, Yifeng Wu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen, Zhao Liang..<br /><em>In AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making.</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+  <li>
   <p><span style="font-size: medium;"><u>Time Series Contrastive Learning with Information-Aware Augmentations.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Y. Wang, D. Xu, J. Ni, W. Yu, X. Zhang, Y. Liu, Y. Chen, H. Chen, X. Zhang.<br /><em>In 2023 AAAI International Conference on Artificial Intelligence (AAAI'23).</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
+ 
     <strong>
   2022
   </strong>
