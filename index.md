@@ -38,11 +38,22 @@
 </ul>
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
+  <strong>
+  2023
+  </strong>
+  <li>
+  <p><span style="font-size: medium;"><u>Personalized Federated Learning via Heterogeneous Modular Networks.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Dongkuan Xu, Wenchao Yu, Xuchao Zhang, Jingchao Ni, Yanchi Liu, Haifeng Chen, Xiang Zhang.<br /><em>In 2023 AAAI International Conference on Artificial Intelligence (AAAI'23).</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+  <li>
+  <p><span style="font-size: medium;"><u>Personalized Federated Learning via Heterogeneous Modular Networks.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Dongkuan Xu, Wenchao Yu, Xuchao Zhang, Jingchao Ni, Yanchi Liu, Haifeng Chen, Xiang Zhang.<br /><em>In 2023 AAAI International Conference on Artificial Intelligence (AAAI'23).</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
     <strong>
   2022
   </strong>
   <li>
-  <p><span style="font-size: medium;"><u>Personalized Federated Learning via Heterogeneous Modular Networks.<br/></u>Tianchun Wang, <strong>*Wei Cheng</strong>, Dongsheng Luo, Wenchao Yu, Jingchao Ni, Liang Tong, Haifeng Chen, Xiang Zhang..<br /><em>In 2022 IEEE International Conference on Data Mining (ICDM'22).</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Personalized Federated Learning via Heterogeneous Modular Networks.<br/></u>Tianchun Wang, <strong>*Wei Cheng</strong>, Dongsheng Luo, Wenchao Yu, Jingchao Ni, Liang Tong, Haifeng Chen, Xiang Zhang.<br /><em>In 2022 IEEE International Conference on Data Mining (ICDM'22).</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li> 
   <li>
