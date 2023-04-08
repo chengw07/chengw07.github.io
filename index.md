@@ -50,7 +50,7 @@
  </span></p>
  </li>
    <li>
-  <p><span style="font-size: medium;"><u>Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning.<br/></u>Dongsheng Luo, Chen Ling, Xuchao Zhang, Xujiang Zhao, Yifeng Wu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen, Zhao Liang..<br /><em>In AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making.</em>. 
+  <p><span style="font-size: medium;"><u>Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning.<br/></u>Dongsheng Luo, Chen Ling, Xuchao Zhang, Xujiang Zhao, Yifeng Wu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen, Zhao Liang..<br /><em>In AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making</em>. 
  </span></p>
  </li>
  
@@ -58,7 +58,7 @@
   2022
   </strong>
   <li>
-  <p><span style="font-size: medium;"><u>Personalized Federated Learning via Heterogeneous Modular Networks.<br/></u>Tianchun Wang, <strong>*Wei Cheng</strong>, Dongsheng Luo, Wenchao Yu, Jingchao Ni, Liang Tong, Haifeng Chen, Xiang Zhang.<br /><em>In 2022 IEEE International Conference on Data Mining (ICDM'22).</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Personalized Federated Learning via Heterogeneous Modular Networks.<br/></u>Tianchun Wang, <strong>*Wei Cheng</strong>, Dongsheng Luo, Wenchao Yu, Jingchao Ni, Liang Tong, Haifeng Chen, Xiang Zhang.<br /><em>In 2022 IEEE International Conference on Data Mining (ICDM'22)</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li> 
   <li>
