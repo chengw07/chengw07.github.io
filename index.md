@@ -46,7 +46,7 @@
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>Interpretable Skill Learning for Dynamic Treatment Regimes Through Imitation.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Y Jiang, W Yu, D Song, <strong>Wei Cheng</strong>, H Chen.<br /><em>Invited paper at 57th Annual Conference on Information Science and Systems (CISS'23).</em>. (<strong><a href="[https://github.com/chengw07/chengw07.github.io/blob/master/aaai23.pdf](https://ciss.jhu.edu/distributed-robust-machine-learning-ii-invited-special-session/)" rel="nofollow">Link</a></strong>)
+  <p><span style="font-size: medium;"><u>Interpretable Skill Learning for Dynamic Treatment Regimes Through Imitation.<br/></u>Y Jiang, W Yu, D Song, <strong>Wei Cheng</strong>, H Chen.<br /><em>Invited paper at 57th Annual Conference on Information Science and Systems (CISS'23).</em>. (<strong><a href="[https://github.com/chengw07/chengw07.github.io/blob/master/aaai23.pdf](https://ciss.jhu.edu/distributed-robust-machine-learning-ii-invited-special-session/)" rel="nofollow">Link</a></strong>)
  </span></p>
  </li>
    <li>
