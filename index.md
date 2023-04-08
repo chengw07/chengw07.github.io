@@ -42,11 +42,15 @@
   2023
   </strong>
   <li>
-  <p><span style="font-size: medium;"><u>Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning.<br/></u>Dongsheng Luo, Chen Ling, Xuchao Zhang, Xujiang Zhao, Yifeng Wu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen, Zhao Liang..<br /><em>In AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making.</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning.<br/></u>Dongsheng Luo, Chen Ling, Xuchao Zhang, Xujiang Zhao, Yifeng Wu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen, Zhao Liang..<br /><em>In AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making</em>. 
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>Time Series Contrastive Learning with Information-Aware Augmentations.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Y. Wang, D. Xu, J. Ni, W. Yu, X. Zhang, Y. Liu, Y. Chen, H. Chen, X. Zhang.<br /><em>In 2023 AAAI International Conference on Artificial Intelligence (AAAI'23).</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/aaai23.pdf" rel="nofollow">PDF</a></strong>)(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/aaai23_supp.pdf" rel="nofollow">Supp</a></strong>)(<strong><a href="https://chengw07.github.io/" rel="nofollow">Code</a></strong>)
+  <p><span style="font-size: medium;"><u>Interpretable Skill Learning for Dynamic Treatment Regimes Through Imitation.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Y Jiang, W Yu, D Song, <strong>Wei Cheng</strong>, H Chen.<br /><em>Invited paper at 57th Annual Conference on Information Science and Systems (CISS'23).</em>. (<strong><a href="[https://github.com/chengw07/chengw07.github.io/blob/master/aaai23.pdf](https://ciss.jhu.edu/distributed-robust-machine-learning-ii-invited-special-session/)" rel="nofollow">Link</a></strong>)
+ </span></p>
+ </li>
+   <li>
+  <p><span style="font-size: medium;"><u>Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning.<br/></u>Dongsheng Luo, Chen Ling, Xuchao Zhang, Xujiang Zhao, Yifeng Wu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen, Zhao Liang..<br /><em>In AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making.</em>. 
  </span></p>
  </li>
  
@@ -389,7 +393,7 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <ul>
  <li><span style="font-size: medium;">Chair: IJCAI'22 WORKSHOP, AI4TS: AI FOR TIME SERIES ANALYSIS, KDD'23 Registration Co-Chair</span></li>
 <li><span style="font-size: medium;">Area Chair: AAAI'23, AAAI'21</span></li>
-<li><span style="font-size: medium;">SPC/PC Member or Reviewer: ICML'23, SIGIR'23, WSDM'23, NeurIPS'22, ICML'22, CIKM'22, SIGKDD'22, SIGIR'22, ICDE'22, ICLR'22, AAAI'22, SDM'22, WSDM'22, ICML'21, KDD'21, SIGIR'21, ICLR'21, CIKM'21, NeurIPS'20, KDD'20, SIGIR'20, CIKM'20, AAAI'20, WSDM'20, AAAI'19, CIKM'18,&nbsp;ICDM'17, SDM'17, IJCAI'15, KDD'14, ECML PKDD'15,'16</span></li>
+<li><span style="font-size: medium;">SPC/PC Member or Reviewer: NeurIPS'23, ICML'23, SIGIR'23, WSDM'23, NeurIPS'22, ICML'22, CIKM'22, SIGKDD'22, SIGIR'22, ICDE'22, ICLR'22, AAAI'22, SDM'22, WSDM'22, ICML'21, KDD'21, SIGIR'21, ICLR'21, CIKM'21, NeurIPS'20, KDD'20, SIGIR'20, CIKM'20, AAAI'20, WSDM'20, AAAI'19, CIKM'18,&nbsp;ICDM'17, SDM'17, IJCAI'15, KDD'14, ECML PKDD'15,'16</span></li>
 <li><span style="font-size: medium;">Journal Reviewer: Nature Genetics, TPAMI, TMLR, TNNLS, ACM Computing Surveys, TKDE, TKDD, Neurocomputing, IEEE Transactions on Cybernetics </span></li>
 </ul>
 <h3><a name="TOC-Teaching"></a>Teaching</h3>
