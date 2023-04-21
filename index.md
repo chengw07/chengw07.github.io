@@ -42,7 +42,7 @@
   2023
   </strong>
   <li>
-  <p><span style="font-size: medium;"><u>Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning.<br/></u>Dongsheng Luo, Chen Ling, Xuchao Zhang, Xujiang Zhao, Yifeng Wu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen, Zhao Liang..<br /><em>In AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making</em>. 
+  <p><span style="font-size: medium;"><u>Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning.<br/></u>Chen Ling, Xuchao Zhang, Xujiang Zhao, Yifeng Wu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen, Zhao Liang.<br /><em>In AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making</em>. 
  </span></p>
  </li>
   <li>
@@ -50,7 +50,7 @@
  </span></p>
  </li>
    <li>
-  <p><span style="font-size: medium;"><u>Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning.<br/></u>Dongsheng Luo, Chen Ling, Xuchao Zhang, Xujiang Zhao, Yifeng Wu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen, Zhao Liang..<br /><em>In AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making</em>. 
+  <p><span style="font-size: medium;"><u>Time Series Contrastive Learning with Information-Aware Augmentations.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Y. Wang, Dongkuan Xu, Wenchao Yu, Xuchao Zhang, Jingchao Ni, Yanchi Liu, Yun Cong, Haifeng Chen, Xiang Zhang.<br /><em>In The 2023 AAAI International Conference on Artificial Intelligence (AAAI'23)</em>. 
  </span></p>
  </li>
  
