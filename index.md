@@ -50,7 +50,7 @@
  </span></p>
  </li>
    <li>
-  <p><span style="font-size: medium;"><u>Time Series Contrastive Learning with Information-Aware Augmentations.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Y. Wang, Dongkuan Xu, Wenchao Yu, Xuchao Zhang, Jingchao Ni, Yanchi Liu, Yun Cong, Haifeng Chen, Xiang Zhang.<br /><em>In The 2023 AAAI International Conference on Artificial Intelligence (AAAI'23)</em>. 
+  <p><span style="font-size: medium;"><u>Time Series Contrastive Learning with Information-Aware Augmentations.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Y. Wang, Dongkuan Xu, Wenchao Yu, Xuchao Zhang, Jingchao Ni, Yanchi Liu, Yuncong Chen, Haifeng Chen, Xiang Zhang.<br /><em>In The 2023 AAAI International Conference on Artificial Intelligence (AAAI'23)</em>. (<strong><a href="[https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf](https://arxiv.org/pdf/2303.11911.pdf)" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
  
