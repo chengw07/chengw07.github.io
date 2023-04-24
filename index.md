@@ -41,6 +41,12 @@
   <strong>
   2023
   </strong>
+  
+  <li>
+  <p><span style="font-size: medium;"><u>Personalized Federated Learning under Mixture of Distributions.<br/></u>Yue Wu, Shuaicheng Zhang, Wenchao Yu, Yanchi Liu, Quanquan Gu, Dawei Zhou, Haifeng Chen, <strong>*Wei Cheng</strong>.<br /><em>International Conference on Machine Learning (ICML'23), 2023</em>. 
+ </span></p>
+ </li>
+  
   <li>
   <p><span style="font-size: medium;"><u>Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning.<br/></u>Chen Ling, Xuchao Zhang, Xujiang Zhao, Yifeng Wu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen, Zhao Liang.<br /><em>In AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making</em>. 
  </span></p>
