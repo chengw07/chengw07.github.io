@@ -43,7 +43,7 @@
   </strong>
   
   <li>
-  <p><span style="font-size: medium;"><u>Personalized Federated Learning under Mixture of Distributions.<br/></u>Yue Wu, Shuaicheng Zhang, Wenchao Yu, Yanchi Liu, Quanquan Gu, Dawei Zhou, Haifeng Chen, <strong>*Wei Cheng</strong>.<br /><em>International Conference on Machine Learning (ICML'23), 2023</em>. (<strong><a href="[https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2022.pdf](https://arxiv.org/pdf/2305.01068.pdf)" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Personalized Federated Learning under Mixture of Distributions.<br/></u>Yue Wu, Shuaicheng Zhang, Wenchao Yu, Yanchi Liu, Quanquan Gu, Dawei Zhou, Haifeng Chen, <strong>*Wei Cheng</strong>.<br /><em>International Conference on Machine Learning (ICML'23), 2023</em>. (<strong><a href="arxiv.org/pdf/2305.01068.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
   
