@@ -47,6 +47,16 @@
  </span></p>
  </li>
   
+   <li>
+  <p><span style="font-size: medium;"><u>FedSkill: Privacy Preserved Interpretable Skill Learning via Imitation.<br/></u>Yushan Jiang, Wenchao Yu, Dongjin Song, Lu Wang, <strong>*Wei Cheng</strong>, Haifeng Chen.<br /><em>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'23), 2023</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">To Appear</a></strong>)
+ </span></p>
+ </li>
+  
+ <li>
+  <p><span style="font-size: medium;"><u>Skill Disentanglement for Imitation Learning from Suboptimal Demonstrations.<br/></u>Tianxiang Zhao, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, <strong>*Wei Cheng</strong>, Haifeng Chen.<br /><em>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'23), 2023</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">To Appear</a></strong>)
+ </span></p>
+ </li>
+  
   <li>
   <p><span style="font-size: medium;"><u>Knowledge-enhanced Prompt for Open-domain Commonsense Reasoning.<br/></u>Chen Ling, Xuchao Zhang, Xujiang Zhao, Yifeng Wu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen, Zhao Liang.<br /><em>In AAAI Workshop on Uncertainty Reasoning and Quantification in Decision Making</em>. 
  </span></p>
