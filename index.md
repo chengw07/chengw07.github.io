@@ -70,7 +70,7 @@
  </span></p>
  </li>
  
-    <strong>
+  <strong>
   2022
   </strong>
   <li>
