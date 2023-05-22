@@ -2,7 +2,7 @@
 <tbody>
 <tr>
 <td>
-<div><a href="https://github.com/chengw07chengw07.github.io/blob/master/weicheng.png?height=162&width=200"><img src="https://sites.google.com/site/weichengshomepage/_/rsrc/1599834209288/home/IMG_0618.png?height=162&width=200" width="200" height="199" border="0" /></a></div>
+<div><a href="https://github.com/chengw07/chengw07.github.io/blob/master/weicheng.png?height=162&width=200"><img src="https://sites.google.com/site/weichengshomepage/_/rsrc/1599834209288/home/IMG_0618.png?height=162&width=200" width="200" height="199" border="0" /></a></div>
 </td>
 <td>
 <h2><a name="TOC-Wei-Cheng"></a><span style="color: #0000ff;">Wei Cheng</span></h2>
