@@ -165,16 +165,14 @@ Jinho D. Choi.<br /><em>In The 2022 AAAI International Conference on Artificial 
   <p><span style="font-size: medium;"><u>Dynamic Gaussian Mixture based Deep Generative Model For Robust Forecasting on Sparse Multivariate Time Series.<br/></u>Yinjun Wu, Jingchao Ni, <strong>Wei Cheng</strong>, Bo Zong, Zhengzhang Chen, Dongjing Song, Haifeng Chen.<br /><em>The 2021 AAAI International Con-ference on Artificial Intelligence (AAAI’21), 2021.</em>(<strong><a href=" https://arxiv.org/pdf/2103.02164.pdf" rel="nofollow">PDF</a></strong>)(<strong><a href="https://github.com/thuwuyinjun/DGM2" rel="nofollow">Code</a></strong>)
  </span></p>
  </li>
-  <li>
-  <p><span style="font-size: medium;"><u>Learning to Drop: Robust Graph Neural Network via Topological Denoising.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang<br /><em>The 14th ACM International WSDM Conference (WSDM'21), 2021.</em>(<strong><a href="http://personal.psu.edu/dul262/PTDNet/WSDM2021_PTDNet_camera_ready.pdf" rel="nofollow">PDF</a></strong>)(<strong><a href="https://github.com/flyingdoog/PTDNet" rel="nofollow">Code</a></strong>)
+ <li>
+ <p><span style="font-size: medium;"><u>Learning to Drop: Robust Graph Neural Network via Topological Denoising.<br/></u>Dongsheng Luo, <strong>*Wei Cheng</strong>, Wenchao Yu, Bo Zong, Jingchao Ni, Haifeng Chen, Xiang Zhang<br /><em>The 14th ACM International WSDM Conference (WSDM'21), 2021.</em>(<strong><a href="http://personal.psu.edu/dul262/PTDNet/WSDM2021_PTDNet_camera_ready.pdf" rel="nofollow">PDF</a></strong>)(<strong><a href="https://github.com/flyingdoog/PTDNet" rel="nofollow">Code</a></strong>)
+ </span></p>
+</li>
+<li>
+<p><span style="font-size: medium;"><u>Mapping Genomic Loci Prioritises Genes and Implicates Synaptic Biology in Schizophrenia.<br/></u>Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ)<br /><em><strong><span style="color: #ff0000;"><em>Nature</em></span></strong>, 2021.</em>
  </span></p>
  </li>
- 
-     <li>
-  <p><span style="font-size: medium;"><u>Mapping Genomic Loci Prioritises Genes and Implicates Synaptic Biology in Schizophrenia.<br/></u>Schizophrenia Working Group of the Psychiatric Genomics Consortium (PGC-SCZ)<br /><em><strong><span style="color: #ff0000;"><em>Nature</em></span></strong>, 2021.</em>
- </span></p>
- </li>
-    
     
 
   <strong>
