@@ -93,16 +93,14 @@
  </span></p>
  </li> 
    <li>
-  <p><span style="font-size: medium;"><u>Code Editing from Few Exemplars by Adaptive Multi-Extent Composition,.<br/></u>Peizhao Li, Xuchao Zhang, Ziyu Yao, <strong>Wei Cheng</strong>, Haifeng Chen, Hongfu Liu.<br /><em>In ICLR Workshop of Deep Learning For Code (ICLR Workshop), 2022.</em>(<strong><a href="https://openreview.net/forum?id=HuWlaidbyZ9" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Code Editing from Few Exemplars by Adaptive Multi-Extent Composition.<br/></u>Peizhao Li, Xuchao Zhang, Ziyu Yao, <strong>Wei Cheng</strong>, Haifeng Chen, Hongfu Liu.<br/><em>ICLR Workshop of Deep Learning For Code (ICLR Workshop), 2022.</em>(<strong><a href="https://openreview.net/forum?id=HuWlaidbyZ9" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li> 
-  
-  <li>
-  <p><span style="font-size: medium;"><u>SEED: Sound Event Early Detection via Evidential Uncertainty.<br/></u>Xujiang Zhao, Xuchao Zhang, <strong>Wei Cheng</strong>, Wenchao Yu, Yuncong Chen, Haifeng Chen, Feng Chen.<br /><em>In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'22).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL.pdf" rel="nofollow">To Appear</a></strong>)
+<li>
+<p><span style="font-size: medium;"><u>SEED: Sound Event Early Detection via Evidential Uncertainty.<br/></u>Xujiang Zhao, Xuchao Zhang, <strong>Wei Cheng</strong>, Wenchao Yu, Yuncong Chen, Haifeng Chen, Feng Chen.<br /><em>In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'22).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL.pdf" rel="nofollow">To Appear</a></strong>)
  </span></p>
  </li> 
-  
-    <li>
+<li>
   <p><span style="font-size: medium;"><u>Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph.<br/></u>Liyan Xu, Xuchao Zhang, Bo Zong, Yanchi Liu, <strong>Wei Cheng</strong>, Jingchao Ni, Haifeng Chen, Zhao Liang, 
 Jinho D. Choi.<br /><em>In The 2022 AAAI International Conference on Artificial Intelligence (AAAI'22).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/InfoGCL.pdf" rel="nofollow">to appear</a></strong>)
  </span></p>
