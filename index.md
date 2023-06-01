@@ -124,10 +124,6 @@ Jinho D. Choi.<br /><em>In The 2022 AAAI International Conference on Artificial 
   <p><span style="font-size: medium;"><u>Aspect-based Sentiment Classification via Reinforcement Learning.<br/></u>Lichen Wang, Bo Zong, Yunyu Liu, Can Qin, <strong>Wei Cheng</strong>, Wenchao Yu, Xuchao Zhang, Haifeng Chen, Yun Fu.<br /><em>In The 2021 edition of the IEEE International Conference on Data Mining series (ICDM'21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/ICDM2021.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li> 
-    <li>
-  <p><span style="font-size: medium;"><u>Unsupervised anomaly detection under a multiple modeling strategy via model set optimization through transfer learning.<br/></u>Masanao Natsumeda, Takehiko Mizoguchi, <strong>Wei Cheng</strong>, Yuncong Chen, Haifeng Chen.<br /><em>In IEEE International Conference on Big Knowledge (IEEE ICBK'21).</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">To Appear</a></strong>)
- </span></p>
- </li> 
    <li>
   <p><span style="font-size: medium;"><u>You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation.<br/></u>Zeyu Li, <strong>*Wei Cheng</strong>, Haiqi Xiao, Wenchao Yu, Haifeng Chen, Wei Wang.<br /><em>In The Conference on Information and Knowledge Management (CIKM'21), 2021.</em>(<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/CIKM2021.pdf" rel="nofollow">PDF</a></strong>, <strong><a href="https://github.com/zyli93/GEAPR" rel="nofollow">Code</a></strong>)
  </span></p>
