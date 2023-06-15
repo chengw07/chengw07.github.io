@@ -39,6 +39,27 @@
 <h3><a name="TOC-Selected-Publications"></a>Selected Publications</h3>
 <ul>
   <strong>
+  Preprint
+  </strong>
+  <li>
+  <p><span style="font-size: medium;"><u>DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text.<br/></u>Xianjun Yang, <strong>*Wei Cheng</strong>, Linda Petzold, William Yang Wang, Haifeng Chen.<br /> (<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+  <li>
+  <p><span style="font-size: medium;"><u>Dynamic Prompting: A Unified Framework for Prompt Tuning.<br/></u>Xianjun Yang, <strong>*Wei Cheng</strong>, Xujiang Zhao, Wenchao Yu, Linda Petzold, Haifeng Chen.<br /> (<strong><a href="https://arxiv.org/pdf/2303.02909.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+  <li>
+  <p><span style="font-size: medium;"><u>Exploring the limits of chatgpt for query or aspect-based text summarization.<br/></u>Xianjun Yang, Yan Li, Xinlu Zhang, Haifeng Chen, <strong>*Wei Cheng</strong>.<br />. (<strong><a href="https://arxiv.org/pdf/2302.08081.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+  <li>
+  <p><span style="font-size: medium;"><u>Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models.<br/></u>C. Ling, X. Zhao, J. Lu, C. Deng, C. Zheng, J. Wang, T. Chowdhury, Y. Li, H. Cui, X. Zhang, T. Zhao, A. Panalkar, <strong>*Wei Cheng</strong>, H. Wang, Y. Liu, Z. Chen, H. Chen, C. White, Q. Gu, C. Yang, L. Zhao.<br />. (<strong><a href="https://arxiv.org/pdf/2305.18703.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+  
+  
+  <strong>
   2023
   </strong>
   
