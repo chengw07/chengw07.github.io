@@ -26,7 +26,7 @@
 <h3><a name="TOC-Research-Interests"></a>Research Interests</h3>
 <ul>
 <li><span style="font-size: medium;"><strong>Data Science</strong>: Time Series Analysis, Anomaly Detection, Recommendation</span></li>
-<li><span style="font-size: medium;"><strong>Machine Learning</strong>: Deep Learning, GNN, Reinforcement Learning, Transfer Learning, Meta-Learning, Federated Learning</span></li>
+<li><span style="font-size: medium;"><strong>Machine Learning</strong>: Deep Learning, GNN, Reinforcement Learning, Transfer Learning, Meta-Learning, Federated Learning, Imitation Learning</span></li>
 <li><span style="font-size: medium;"><strong>NLP</strong>: LLM-generated Content Detection, LLM Adaptation, Text Representation Learning, Sentiment Analysis</span></li>
 <li><span style="font-size: medium;"><strong>Bioinformatics</strong>: eQTL Study, Gene Pathway Analysis</span></li>
 </ul>
