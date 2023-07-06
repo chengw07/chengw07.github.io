@@ -13,7 +13,7 @@
 </table>
 <hr />
 <h3><a name="TOC-About-Me"></a>About Me</h3>
-<p><span style="font-family: arial, sans-serif; font-size: medium;" align="center">Wei Cheng is a Senior Researcher at NEC Labs America. He received his Ph.D. from the Department of Computer Science, UNC at Chapel Hill in 2015, advised by <a href="http://web.cs.ucla.edu/~weiwang/" rel="nofollow">Prof. Wei Wang</a>. His research interests include data science, machine learning and bioinformatics. He has filed more than sixty patents, and has published more than 100 research papers in top-tier conferences such as NeurIPS, ICML, SIGKDD, ICLR, WWW, EMNLP, ISMB and journals such as Nature, Science, TNNLS, TKDE, Bioinformatics, etc. His research results received <a href="https://www.kdd.org/awards/view/2016-sigkdd-best-paper-award-winners" rel="nofollow">Best Research Paper Runner-Up Award at SIGKDD 2016</a> and were nominated for the Best Paper Award at ICDM 2018, ICDM 2017, ICDM 2015 and SDM 2012. He has also served as area chair, senior program committee member for several top-tier conferences including SIGKDD, EMNLP, IJCAI, SDM, AAAI, WSDM, etc. </span></p>
+<p><span style="font-family: arial, sans-serif; font-size: medium;" align="center">Wei Cheng is a Senior Researcher at NEC Labs America. He received his Ph.D. from the Department of Computer Science, UNC at Chapel Hill in 2015, advised by <a href="http://web.cs.ucla.edu/~weiwang/" rel="nofollow">Prof. Wei Wang</a>. His research interests include data science, machine learning and bioinformatics. He has filed more than sixty patents, and has published more than 100 research papers in top-tier conferences such as NeurIPS, ICML, SIGKDD, ICLR, WWW, EMNLP, ISMB and journals such as Nature, Science, TNNLS, TKDE, Bioinformatics, etc. His research results received <a href="https://www.kdd.org/awards/view/2016-sigkdd-best-paper-award-winners" rel="nofollow">Best Research Paper Runner-Up Award at SIGKDD 2016</a> and were nominated for the Best Paper Award at ICDM 2018, ICDM 2017, ICDM 2015 and SDM 2012. He has also served as area chair for several top-tier conferences including SIGKDD, EMNLP, IJCAI, SDM, AAAI, WSDM, etc. </span></p>
 <p style="text-align:left">
                 <a href="mailto:chengw02@gmail.com">Email | </a>    
         <!-- <a href=        <a href="CV.pdf">CV (Oct. 2021)</a>       -->
@@ -77,6 +77,11 @@
   <p><span style="font-size: medium;"><u>Skill Disentanglement for Imitation Learning from Suboptimal Demonstrations.<br/></u>Tianxiang Zhao, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen.<br /><em>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'23), 2023</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">To Appear</a></strong>)
  </span></p>
  </li>
+<li>
+ <p><span style="font-size: medium;"><u>AutoTCL: Automated Time Series Contrastive Learning with Adaptive Augmentations.<br/></u>Xu Zheng, Tianchun Wang, <strong>Wei Cheng</strong>, Aitian Ma, Haifeng Chen, Mo Sha, Dongsheng Luo.<br /><em>The Second Workshop of Artificial Intelligence for Time Series Analysis (AI4TS): Theory, Algorithms, and Applications, 2023</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">To Appear</a></strong>)
+ </span></p>
+</li>
+ 
   <li>
   <p><span style="font-size: medium;"><u>Unsupervised anomaly detection under a multiple modeling strategy via model set optimization through transfer learning.<br/></u>Masanao Natsumeda, Takehiko Mizoguchi, <strong>Wei Cheng</strong>, Yuncong Chen and Haifeng Chen.<br /><em>26th International Conference on Information Fusion, 2023</em>.
  </span></p>
