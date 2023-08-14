@@ -78,7 +78,7 @@
  </span></p>
  </li>
 <li>
- <p><span style="font-size: medium;"><u>AutoTCL: Automated Time Series Contrastive Learning with Adaptive Augmentations.<br/></u>Xu Zheng, Tianchun Wang, <strong>Wei Cheng</strong>, Aitian Ma, Haifeng Chen, Mo Sha, Dongsheng Luo.<br /><em>The Second Workshop of Artificial Intelligence for Time Series Analysis (AI4TS): Theory, Algorithms, and Applications, 2023</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">To Appear</a></strong>)
+ <p><span style="font-size: medium;"><u>AutoTCL: Automated Time Series Contrastive Learning with Adaptive Augmentations.<br/></u>Xu Zheng, Tianchun Wang, <strong>Wei Cheng</strong>, Aitian Ma, Haifeng Chen, Mo Sha, Dongsheng Luo.<br /><em>The Second Workshop of Artificial Intelligence for Time Series Analysis (AI4TS): Theory, Algorithms, and Applications, 2023</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">To Appear</a></strong>) (<strong><span style="color: #FF0000;">Best Paper Award</span></strong>)
  </span></p>
 </li>
  
