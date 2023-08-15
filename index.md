@@ -406,7 +406,7 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 </ul>
 <h3><a name="TOC-Awards"></a>Awards</h3>
 <ul>
->li><span style="font-size: medium;">Best Paper Award, The Workshop of Artificial Intelligence for Time Series Analysis (IJCAI Workshop), 2023</span></li>
+<li><span style="font-size: medium;">Best Paper Award, The Workshop of Artificial Intelligence for Time Series Analysis (IJCAI Workshop), 2023</span></li>
 <li><span style="font-size: medium;">NEC Global Innovation Unit Outstanding Value Award, 2022</span></li>
 <li><span style="font-size: medium;">NEC Business Contribution Award, Oct 2022</span></li>
 <li><span style="font-size: medium;">NEC DX Innovator 100, 2022</span></li>
