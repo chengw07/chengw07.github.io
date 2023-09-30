@@ -62,7 +62,10 @@
   <strong>
   2023
   </strong>
-  
+   <li>
+  <p><span style="font-size: medium;"><u>Hierarchical Gaussian Mixture based Task Generative Model for Robust Meta-Learning.<br/></u>Yizhou Zhang, Jingchao Ni, <strong>Wei Cheng</strong>, Zhengzhang Chen, Liang Tong, Haifeng Chen, Yan Liu.<br /><em>Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), 2023</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
   <li>
   <p><span style="font-size: medium;"><u>Personalized Federated Learning under Mixture of Distributions.<br/></u>Yue Wu, Shuaicheng Zhang, Wenchao Yu, Yanchi Liu, Quanquan Gu, Dawei Zhou, Haifeng Chen, <strong>*Wei Cheng</strong>.<br /><em>International Conference on Machine Learning (ICML'23), 2023</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
