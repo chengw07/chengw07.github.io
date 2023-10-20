@@ -57,8 +57,16 @@
   <p><span style="font-size: medium;"><u>Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey.<br/></u>C. Ling, X. Zhao, J. Lu, C. Deng, C. Zheng, J. Wang, T. Chowdhury, Y. Li, H. Cui, X. Zhang, T. Zhao, A. Panalkar, <strong>Wei Cheng</strong>, H. Wang, Y. Liu, Z. Chen, H. Chen, C. White, Q. Gu, C. Yang, L. Zhao.<br />. (<strong><a href="https://arxiv.org/pdf/2305.18703.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
-  
-  
+   <strong>
+  2024
+  </strong>
+  <li>
+  <p><span style="font-size: medium;"><u>DyExplainer: Explainable Dynamic Graph Neural Networks.<br/></u>Tianchun Wang, Dongsheng Luo, <strong>Wei Cheng</strong>, Haifeng Chen, Xiang Zhang.<br /><em>The 17th ACM International WSDM Conference, 2024</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+   <p><span style="font-size: medium;"><u>Interpretable Imitation Learning with Dynamic Causal Relations.<br/></u>Tianxiang Zhao, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen.<br /><em>The 17th ACM International WSDM Conference, 2024</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
   <strong>
   2023
   </strong>
