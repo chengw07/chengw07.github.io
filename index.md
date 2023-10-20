@@ -72,11 +72,11 @@
   2023
   </strong>
   <li>
-  <p><span style="font-size: medium;"><u>Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models.<br/></u>Jianwei Li, Qi Lei, <strong>Wei Cheng</strong>, Dongkuan Xu.<br /><em>Proceedings of the Conference on Empirical Methods in Natural Language Processing  (EMNLP), 2023</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models.<br/></u>Jianwei Li, Qi Lei, <strong>Wei Cheng</strong>, Dongkuan Xu.<br /><em>Proceedings of the Conference on Empirical Methods in Natural Language Processing  (EMNLP), 2023</em>. (<strong><a href="https://openreview.net/attachment?id=uEAFmlWYig&name=submit_paper" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
  <li>
-  <p><span style="font-size: medium;"><u>Open-ended Commonsense Reasoning with Unrestricted Answer Candidates.<br/></u>Chen Ling, Xuchao Zhang, Xujiang Zhao, Yanchi Liu, <strong>Wei Cheng</strong>, Takao Osaki, Katsushi Matsuda, Haifeng Chen, Liang Zhao.<br /><em>Proceedings of the Conference on Empirical Methods in Natural Language Processing  (EMNLP), 2023</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">PDF</a></strong>) (Findings)
+  <p><span style="font-size: medium;"><u>Open-ended Commonsense Reasoning with Unrestricted Answer Candidates.<br/></u>Chen Ling, Xuchao Zhang, Xujiang Zhao, Yanchi Liu, <strong>Wei Cheng</strong>, Takao Osaki, Katsushi Matsuda, Haifeng Chen, Liang Zhao.<br /><em>Proceedings of the Conference on Empirical Methods in Natural Language Processing  (EMNLP), 2023</em>. (<strong><a href="https://openreview.net/attachment?id=VC2vPPetCU&name=submit_paper" rel="nofollow">PDF</a></strong>) (Findings)
  </span></p>
  </li>
    <li>
