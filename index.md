@@ -64,6 +64,7 @@
   <p><span style="font-size: medium;"><u>DyExplainer: Explainable Dynamic Graph Neural Networks.<br/></u>Tianchun Wang, Dongsheng Luo, <strong>Wei Cheng</strong>, Haifeng Chen, Xiang Zhang.<br /><em>The 17th ACM International WSDM Conference, 2024</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
+  <li>
    <p><span style="font-size: medium;"><u>Interpretable Imitation Learning with Dynamic Causal Relations.<br/></u>Tianxiang Zhao, Wenchao Yu, Suhang Wang, Lu Wang, Xiang Zhang, Yuncong Chen, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen.<br /><em>The 17th ACM International WSDM Conference, 2024</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
