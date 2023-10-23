@@ -61,7 +61,7 @@
   2024
   </strong>
   <li>
-  <p><span style="font-size: medium;"><u>DyExplainer: Explainable Dynamic Graph Neural Networks.<br/></u>Tianchun Wang, Dongsheng Luo, <strong>Wei Cheng</strong>, Haifeng Chen, Xiang Zhang.<br /><em>The 17th ACM International WSDM Conference, 2024</em>. (<strong><a href="https://arxiv.org/pdf/2305.01068.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>DyExplainer: Explainable Dynamic Graph Neural Networks.<br/></u>Tianchun Wang, Dongsheng Luo, <strong>Wei Cheng</strong>, Haifeng Chen, Xiang Zhang.<br /><em>The 17th ACM International WSDM Conference, 2024</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/dynamicwsdm.pdf" rel="nofollow">Paper</a></strong>)
  </span></p>
  </li>
   <li>
