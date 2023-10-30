@@ -41,6 +41,10 @@
   <strong>
   Preprint
   </strong>
+  <li>
+  <p><span style="font-size: medium;"><u>Large Language Models Can Be Good Privacy Protection Learners.<br/></u>Yijia Xiao, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Haifeng Chen, Wei Wang, <strong>*Wei Cheng</strong> <br /> (<strong><a href="https://arxiv.org/pdf/2310.02469.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
     <li>
   <p><span style="font-size: medium;"><u>A Survey on Detection of LLMs-Generated Content.<br/></u>Xianjun Yang, Liangming Pan, Xuandong Zhao, Haifeng Chen, Linda Petzold, William Yang Wang, <strong>*Wei Cheng</strong> <br /> (<strong><a href="https://arxiv.org/pdf/2310.15654.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
