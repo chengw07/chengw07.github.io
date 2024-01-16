@@ -72,7 +72,7 @@
   <li>
   <p><span style="font-size: medium;"><u>Parametric Augmentation for Time Series Contrastive Learning.<br/></u>Xu Zheng, Tianchun Wang, <strong>Wei Cheng</strong>, Aitian Ma, Haifeng Chen, Mo Sha, Dongsheng Luo.<br /> <em>In International Conference on Learning Representations (ICLR'24).</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
-  <li>
+  </li>
   <li>
   <p><span style="font-size: medium;"><u>Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks.<br/></u>Xu Zheng, Farhad Shirani, Tianchun Wang, <strong>Wei Cheng</strong>, Zhuomin Chen, Haifeng Chen, Hua Wei, Dongsheng Luo. <br /> <em>In International Conference on Learning Representations (ICLR'24).</em>(<strong><a href="[https://arxiv.org/pdf/2305.17359.pdf](https://arxiv.org/pdf/2310.01820v1.pdf)" rel="nofollow">PDF</a></strong>)
  </span></p>
