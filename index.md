@@ -53,10 +53,7 @@
   <p><span style="font-size: medium;"><u>Zero-Shot Detection of Machine-Generated Codes.<br/></u>Xianjun Yang, Kexun Zhang, Haifeng Chen, Linda Petzold, William Yang Wang, <strong>*Wei Cheng</strong>.<br /> (<strong><a href="https://arxiv.org/pdf/2310.05103" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
-  <li>
-  <p><span style="font-size: medium;"><u>DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text.<br/></u>Xianjun Yang, <strong>*Wei Cheng</strong>, Linda Petzold, William Yang Wang, Haifeng Chen.<br /> (<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
- </span></p>
- </li>
+  
   <li>
   <p><span style="font-size: medium;"><u>Dynamic Prompting: A Unified Framework for Prompt Tuning.<br/></u>Xianjun Yang, <strong>*Wei Cheng</strong>, Xujiang Zhao, Wenchao Yu, Linda Petzold, Haifeng Chen.<br /> (<strong><a href="https://arxiv.org/pdf/2303.02909.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
@@ -72,6 +69,17 @@
    <strong>
   2024
   </strong>
+  <li>
+  <p><span style="font-size: medium;"><u>Parametric Augmentation for Time Series Contrastive Learning.<br/></u>Xu Zheng, Tianchun Wang, <strong>Wei Cheng</strong>, Aitian Ma, Haifeng Chen, Mo Sha, Dongsheng Luo.<br /> <em>In International Conference on Learning Representations (ICLR'24).</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+  <li>
+  <li>
+  <p><span style="font-size: medium;"><u>Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks.<br/></u>Xu Zheng, Farhad Shirani, Tianchun Wang, <strong>Wei Cheng</strong>, Zhuomin Chen, Haifeng Chen, Hua Wei, Dongsheng Luo. <br /> <em>In International Conference on Learning Representations (ICLR'24).</em>(<strong><a href="[https://arxiv.org/pdf/2305.17359.pdf](https://arxiv.org/pdf/2310.01820v1.pdf)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+  <li>
+  <p><span style="font-size: medium;"><u>DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text.<br/></u>Xianjun Yang, <strong>*Wei Cheng</strong>, Linda Petzold, William Yang Wang, Haifeng Chen.<br /> <em>In International Conference on Learning Representations (ICLR'24).</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
   <li>
   <p><span style="font-size: medium;"><u>DyExplainer: Explainable Dynamic Graph Neural Networks.<br/></u>Tianchun Wang, Dongsheng Luo, <strong>Wei Cheng</strong>, Haifeng Chen, Xiang Zhang.<br /><em>The 17th ACM International WSDM Conference, 2024</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/dynamicwsdm.pdf" rel="nofollow">Paper</a></strong>)
  </span></p>
