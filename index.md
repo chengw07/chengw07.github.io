@@ -471,7 +471,7 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <h3><a name="TOC-Professional-Activities"></a>Professional Activities</h3>
 <ul>
  <li><span style="font-size: medium;">Chair: IJCAI'22 WORKSHOP, AI4TS: AI FOR TIME SERIES ANALYSIS, KDD'23 Registration Co-Chair</span></li>
-<li><span style="font-size: medium;">Area Chair: NAACL'24, AAAI'24, EMNLP'23, AAAI'23, AAAI'21, WSDM'20, AAAI'20</span></li>
+<li><span style="font-size: medium;">Area Chair: ACL'24, NAACL'24, AAAI'24, EMNLP'23, AAAI'23, AAAI'21, WSDM'20, AAAI'20</span></li>
 <li><span style="font-size: medium;">SPC/PC Member or Reviewer: ICML'24, SIGIR'24, WSDM'24, NeurIPS'23, ICML'23, SIGIR'23, WSDM'23, NeurIPS'22, ICML'22, CIKM'22, SIGKDD'22, SIGIR'22, ICDE'22, ICLR'22, AAAI'22, SDM'22, WSDM'22, ICML'21, KDD'21, SIGIR'21, ICLR'21, CIKM'21, NeurIPS'20, KDD'20, SIGIR'20, CIKM'20, AAAI'20, WSDM'20, AAAI'19, CIKM'18,&nbsp;ICDM'17, SDM'17, IJCAI'15, KDD'14, ECML PKDD'15,'16</span></li>
 <li><span style="font-size: medium;">Journal Reviewer: Nature Genetics, TPAMI, Artificial Intelligence, IEEE Transactions on Artificial Intelligence, TMLR, TNNLS, ACM Computing Surveys, TKDE, TKDD, Neurocomputing, IEEE Transactions on Cybernetics </span></li>
 </ul>
