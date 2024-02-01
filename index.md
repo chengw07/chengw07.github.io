@@ -70,7 +70,7 @@
   2024
   </strong>
   <li>
-  <p><span style="font-size: medium;"><u>Towards Inductive and Efficient Explanations for Graph Neural Networks.<br/></u>Dongsheng Luo, Tianxiang Zhao, <strong>Wei Cheng</strong>strong>, Dongkuan Xu, Feng Han, Wenchao Yu, Xiao Liu, Haifeng Chen, Xiang Zhang.<br/> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Towards Inductive and Efficient Explanations for Graph Neural Networks.<br/></u>Dongsheng Luo, Tianxiang Zhao, <strong>Wei Cheng</strong>, Dongkuan Xu, Feng Han, Wenchao Yu, Xiao Liu, Haifeng Chen, Xiang Zhang.<br/> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
   </li>
   <li>
