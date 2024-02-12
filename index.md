@@ -50,7 +50,7 @@
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution..<br/></u>Wenyue Hua, Xianjun Yang, Zelong Li,  <strong>Wei Cheng</strong> <br /> (<strong>, Yongfeng Zhang.<a href="https://arxiv.org/pdf/2310.02469.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution..<br/></u>Wenyue Hua, Xianjun Yang, Zelong Li,  <strong>Wei Cheng</strong>, Yongfeng Zhang. <br /><a href="https://arxiv.org/pdf/2310.02469.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
   <li>
