@@ -42,6 +42,18 @@
   Preprint
   </strong>
   <li>
+  <p><span style="font-size: medium;"><u>Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton..<br/></u>Yiyou Sun, Junjie Hu, <strong>Wei Cheng</strong>, Haifeng Chen. <br /> (<strong><a href="https://arxiv.org/abs/2402.04411" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+  <li>
+  <p><span style="font-size: medium;"><u>PAC Learnability under Explanation-Preserving Graph Perturbations..<br/></u>Xu Zheng, Farhad Shirani, Tianchun Wang, Shouwei Gao, Wenqian Dong,  <strong>Wei Cheng</strong>, Dongsheng Luo. <br /> (<strong><a href="https://www.arxiv.org/abs/2402.05039" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+  <li>
+  <p><span style="font-size: medium;"><u>TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution..<br/></u>Wenyue Hua, Xianjun Yang, Zelong Li,  <strong>Wei Cheng</strong> <br /> (<strong>, Yongfeng Zhang.<a href="https://arxiv.org/pdf/2310.02469.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+  <li>
   <p><span style="font-size: medium;"><u>Large Language Models Can Be Good Privacy Protection Learners.<br/></u>Yijia Xiao, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Haifeng Chen, Wei Wang, <strong>*Wei Cheng</strong> <br /> (<strong><a href="https://arxiv.org/pdf/2310.02469.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
