@@ -96,6 +96,10 @@
   <p><span style="font-size: medium;"><u>DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text.<br/></u>Xianjun Yang, <strong>*Wei Cheng</strong>, Linda Petzold, William Yang Wang, Haifeng Chen.<br /> <em>In International Conference on Learning Representations (ICLR'24).</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
+ <li>
+  <p><span style="font-size: medium;"><u>Improving Open Information Extraction with Large Language Models: A Study on Demonstration Uncertainty.<br/></u>Chen Ling, Xujiang Zhao, Xuchao Zhang, Yanchi Liu, <strong>Wei Cheng</strong>,, Haoyu Wang, Zhengzhang Chen, Mika Oishi, Takao Osaki, Katsushi Matsuda, Liang Zhao, Haifeng Chen.<br /> <em>In ICLR Workshop.</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
   <li>
   <p><span style="font-size: medium;"><u>DyExplainer: Explainable Dynamic Graph Neural Networks.<br/></u>Tianchun Wang, Dongsheng Luo, <strong>Wei Cheng</strong>, Haifeng Chen, Xiang Zhang.<br /><em>The 17th ACM International WSDM Conference, 2024</em>. (<strong><a href="https://github.com/chengw07/chengw07.github.io/blob/master/dynamicwsdm.pdf" rel="nofollow">Paper</a></strong>)
  </span></p>
