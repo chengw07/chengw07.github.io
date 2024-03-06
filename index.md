@@ -97,7 +97,11 @@
  </span></p>
  </li>
  <li>
-  <p><span style="font-size: medium;"><u>Improving Open Information Extraction with Large Language Models: A Study on Demonstration Uncertainty.<br/></u>Chen Ling, Xujiang Zhao, Xuchao Zhang, Yanchi Liu, <strong>Wei Cheng</strong>,, Haoyu Wang, Zhengzhang Chen, Mika Oishi, Takao Osaki, Katsushi Matsuda, Liang Zhao, Haifeng Chen.<br /> <em>In ICLR Workshop.</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Improving Open Information Extraction with Large Language Models: A Study on Demonstration Uncertainty.<br/></u>Chen Ling, Xujiang Zhao, Xuchao Zhang, Yanchi Liu, <strong>Wei Cheng</strong>, Haoyu Wang, Zhengzhang Chen, Mika Oishi, Takao Osaki, Katsushi Matsuda, Liang Zhao, Haifeng Chen.<br /> <em>In ICLR Workshop.</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+<li>
+  <p><span style="font-size: medium;"><u>Towards Robust Fidelity for Evaluating Explainability.<br/></u>Xu Zheng, Farhad Shirani, Tianchun Wang, <strong>Wei Cheng</strong>, Zhuomin Chen, Haifeng Chen, Hua Wei and Dongsheng Luo.<br /> <em>In The Second Workshop on Trustworthy Learning on Graphs with WWW.</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
   <li>
