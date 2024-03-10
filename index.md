@@ -42,11 +42,15 @@
   Preprint
   </strong>
   <li>
-  <p><span style="font-size: medium;"><u>Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton..<br/></u>Yiyou Sun, Junjie Hu, <strong>Wei Cheng</strong>, Haifeng Chen. <br /> (<strong><a href="https://arxiv.org/abs/2402.04411" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u> InfuserKI: Enhancing Large Language Models with Knowledge Graphs via Infuser-Guided Knowledge Integration.<br/></u>Fali Wang, Runxue Bao, Suhang Wang, Wenchao Yu, Yanchi Liu, <strong>Wei Cheng</strong>, Haifeng Chen. <br /> (<strong><a href="https://arxiv.org/pdf/2402.11441.pdf)" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>PAC Learnability under Explanation-Preserving Graph Perturbations..<br/></u>Xu Zheng, Farhad Shirani, Tianchun Wang, Shouwei Gao, Wenqian Dong,  <strong>Wei Cheng</strong>, Dongsheng Luo. <br /> (<strong><a href="https://www.arxiv.org/abs/2402.05039" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton.<br/></u>Yiyou Sun, Junjie Hu, <strong>Wei Cheng</strong>, Haifeng Chen. <br /> (<strong><a href="https://arxiv.org/abs/2402.04411" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+  <li>
+  <p><span style="font-size: medium;"><u>PAC Learnability under Explanation-Preserving Graph Perturbations.<br/></u>Xu Zheng, Farhad Shirani, Tianchun Wang, Shouwei Gao, Wenqian Dong,  <strong>Wei Cheng</strong>, Dongsheng Luo. <br /> (<strong><a href="https://www.arxiv.org/abs/2402.05039" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
   <li>
