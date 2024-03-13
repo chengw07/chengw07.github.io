@@ -85,6 +85,14 @@
    <strong>
   2024
   </strong>
+<li>
+  <p><span style="font-size: medium;"><u>Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models.<br/></u>Chen Ling, Xujiang Zhao, <strong>Wei Cheng</strong>, Yanchi Liu, Yiyou Sun, Xuchao Zhang, Mika Oishi, Takao Osaki, Katsushi Matsuda, Jie Ji, Guangji Bai, Liang Zhao, Haifeng Chen.<br/> <em>Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'24), 2024.</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+  </li>
+  <li>
+  <p><span style="font-size: medium;"><u>Towards Inductive and Efficient Explanations for Graph Neural Networks.<br/></u>Nan Zhang, Yanchi Liu, Xujiang Zhao, <strong>Wei Cheng</strong>, Runxue Bao, Rui Zhang, Prasenjit Mitra, Haifeng Chen.<br/> <em>Generality and Specificity: Pruning as a Domain-specific LLM Extractor, 2024.</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+  </li>
   <li>
   <p><span style="font-size: medium;"><u>Towards Inductive and Efficient Explanations for Graph Neural Networks.<br/></u>Dongsheng Luo, Tianxiang Zhao, <strong>Wei Cheng</strong>, Dongkuan Xu, Feng Han, Wenchao Yu, Xiao Liu, Haifeng Chen, Xiang Zhang.<br/> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
