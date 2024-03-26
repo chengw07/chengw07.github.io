@@ -127,7 +127,7 @@
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>Zero-Shot Detection of Machine-Generated Codes.<br/></u>Xianjun Yang, Kexun Zhang, Haifeng Chen, Linda Petzold, William Yang Wang, <strong>*Wei Cheng</strong>.<br /> <em>Southern California NLP Symposium</em>(<strong><a href="https://arxiv.org/pdf/2310.05103" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Zero-Shot Detection of Machine-Generated Codes.<br/></u>Xianjun Yang, Kexun Zhang, Haifeng Chen, Linda Petzold, William Yang Wang, <strong>*Wei Cheng</strong>.<br /> <em>Southern California NLP Symposium</em>2023. (<strong><a href="https://arxiv.org/pdf/2310.05103" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
  <li>
