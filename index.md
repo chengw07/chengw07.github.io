@@ -123,15 +123,15 @@
  </span></p>
  </li>
    <li>
-  <p><span style="font-size: medium;"><u>Large Language Models Can Be Good Privacy Protection Learners.<br/></u>Yijia Xiao, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Quanquan Gu, Haifeng Chen, Wei Wang, <strong>*Wei Cheng</strong> <br /> In <em>Southern California NLP Symposium</em>em>, 2023.(<strong><a href="https://arxiv.org/pdf/2310.02469.pdf" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Large Language Models Can Be Good Privacy Protection Learners.<br/></u>Yijia Xiao, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Quanquan Gu, Haifeng Chen, Wei Wang, <strong>*Wei Cheng</strong> <br /> In <em>Southern California NLP Symposium</em>, 2023.(<strong><a href="https://arxiv.org/pdf/2310.02469.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>Zero-Shot Detection of Machine-Generated Codes.<br/></u>Xianjun Yang, Kexun Zhang, Haifeng Chen, Linda Petzold, William Yang Wang, <strong>*Wei Cheng</strong>.<br /> <em>Southern California NLP Symposium</em>em>(<strong><a href="https://arxiv.org/pdf/2310.05103" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Zero-Shot Detection of Machine-Generated Codes.<br/></u>Xianjun Yang, Kexun Zhang, Haifeng Chen, Linda Petzold, William Yang Wang, <strong>*Wei Cheng</strong>.<br /> <em>Southern California NLP Symposium</em>(<strong><a href="https://arxiv.org/pdf/2310.05103" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
  <li>
-  <p><span style="font-size: medium;"><u>Open-ended Commonsense Reasoning with Unrestricted Answer Candidates.<br/></u>Chen Ling, Xuchao Zhang, Xujiang Zhao, Yanchi Liu, <strong>Wei Cheng</strong>, Takao Osaki, Katsushi Matsuda, Haifeng Chen, Liang Zhao.<br /><em>Proceedings of the Conference on Empirical Methods in Natural Language Processing  (EMNLP), 2023</em>. (<strong><a href="https://arxiv.org/pdf/2310.11672" rel="nofollow">PDF</a></strong>) (Findings)
+  <p><span style="font-size: medium;"><u>Open-ended Commonsense Reasoning with Unrestricted Answer Candidates.<br/></u>Chen Ling, Xuchao Zhang, Xujiang Zhao, Yanchi Liu, <strong>Wei Cheng</strong>, Takao Osaki, Katsushi Matsuda, Haifeng Chen, Liang Zhao.<br /><em>Proceedings of the Conference on Empirical Methods in Natural Language Processing  (EMNLP), 2023 </em>. (<strong><a href="https://arxiv.org/pdf/2310.11672" rel="nofollow">PDF</a></strong>) (Findings)
  </span></p>
  </li>
    <li>
