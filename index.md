@@ -46,10 +46,6 @@
  </span></p>
  </li>
   <li>
-  <p><span style="font-size: medium;"><u>Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton.<br/></u>Yiyou Sun, Junjie Hu, <strong>Wei Cheng</strong>, Haifeng Chen. <br /> (<strong><a href="https://arxiv.org/abs/2402.04411" rel="nofollow">PDF</a></strong>)
- </span></p>
- </li>
-  <li>
   <p><span style="font-size: medium;"><u>PAC Learnability under Explanation-Preserving Graph Perturbations.<br/></u>Xu Zheng, Farhad Shirani, Tianchun Wang, Shouwei Gao, Wenqian Dong,  <strong>Wei Cheng</strong>, Dongsheng Luo. <br /> (<strong><a href="https://www.arxiv.org/abs/2402.05039" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
@@ -76,6 +72,10 @@
    <strong>
   2024
   </strong>
+    <li>
+  <p><span style="font-size: medium;"><u>Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton.<br/></u>Yiyou Sun, Junjie Hu, <strong>Wei Cheng</strong>, Haifeng Chen. <br/><em>International Conference on Machine Learning (ICML'24), 2024</em>. (<strong><a href="https://arxiv.org/abs/2402.04411" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
 <li>
   <p><span style="font-size: medium;"><u>Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models.<br/></u>Chen Ling, Xujiang Zhao, <strong>Wei Cheng</strong>, Yanchi Liu, Yiyou Sun, Xuchao Zhang, Mika Oishi, Takao Osaki, Katsushi Matsuda, Jie Ji, Guangji Bai, Liang Zhao, Haifeng Chen.<br/> <em>Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'24), 2024.</em>(<strong><a href="https://arxiv.org/pdf/2305.17359.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
