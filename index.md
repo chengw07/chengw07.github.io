@@ -73,7 +73,7 @@
   2024
   </strong>
     <li>
-  <p><span style="font-size: medium;"><u>Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton.<br/></u>Junxiang Wang, Guangji Bai, <strong></strong>Wei Cheng<strong>, Zhengzhang Chen, Liang Zhao, Haifeng Chen. <br/><em>International Conference on Machine Learning (ICML'24), 2024</em>. (<strong><a href="https://arxiv.org/abs/2312.12276" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton.<br/></u>Junxiang Wang, Guangji Bai, <strong>Wei Cheng</strong>, Zhengzhang Chen, Liang Zhao, Haifeng Chen. <br/><em>International Conference on Machine Learning (ICML'24), 2024</em>. (<strong><a href="https://arxiv.org/abs/2312.12276" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
 <li>
