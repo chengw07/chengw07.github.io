@@ -49,10 +49,6 @@
   <p><span style="font-size: medium;"><u>PAC Learnability under Explanation-Preserving Graph Perturbations.<br/></u>Xu Zheng, Farhad Shirani, Tianchun Wang, Shouwei Gao, Wenqian Dong,  <strong>Wei Cheng</strong>, Dongsheng Luo. <br /> (<strong><a href="https://www.arxiv.org/abs/2402.05039" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
-  <li>
-  <p><span style="font-size: medium;"><u>TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution..<br/></u>Wenyue Hua, Xianjun Yang, Zelong Li,  <strong>Wei Cheng</strong>, Yongfeng Zhang. <br />(<strong><a href="https://arxiv.org/pdf/2402.01586.pdf" rel="nofollow">PDF</a></strong>)
- </span></p>
- </li>
     <li>
   <p><span style="font-size: medium;"><u>A Survey on Detection of LLMs-Generated Content.<br/></u>Xianjun Yang, Liangming Pan, Xuandong Zhao, Haifeng Chen, Linda Petzold, William Yang Wang, <strong>*Wei Cheng</strong> <br /> (<strong><a href="https://arxiv.org/pdf/2310.15654.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
@@ -72,6 +68,14 @@
    <strong>
   2024
   </strong>
+  <li>
+  <p><span style="font-size: medium;"><u>Strategist: Learning Strategic Skills by LLMs via Bi-Level Tree Search.<br/></u>Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, Xiusi Chen, <strong>Wei Cheng</strong>, Yisong Yue, Ziniu Hu. <br /> In <em>ICML Workshop: AutoRL, 2024</em>.(<strong><a href="https://arxiv.org/pdf/2402.01586.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
+  <li>
+  <p><span style="font-size: medium;"><u>TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution.<br/></u>Wenyue Hua, Xianjun Yang, Zelong Li,  <strong>Wei Cheng</strong>, Ruixiang Tang, Yongfeng Zhang. <br /> In <em>ICML Workshop: TiFA, 2024</em>.(<strong><a href="https://arxiv.org/pdf/2402.01586.pdf" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>
     <li>
   <p><span style="font-size: medium;"><u>Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton.<br/></u>Junxiang Wang, Guangji Bai, <strong>Wei Cheng</strong>, Zhengzhang Chen, Liang Zhao, Haifeng Chen. <br/><em>International Conference on Machine Learning (ICML'24), 2024</em>. (<strong><a href="https://arxiv.org/abs/2312.12276" rel="nofollow">PDF</a></strong>)
  </span></p>
