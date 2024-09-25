@@ -62,6 +62,14 @@
    <strong>
   2024
   </strong>
+<li>
+  <p><span style="font-size: medium;"><u>Protecting Your LLMs with Information Bottleneck..<br/></u>Zichuan Liu, Zefan Wang, Linjie Xu, Jinyu Wang, Lei Song, Tianchun Wang, Chunlin Chen,  <strong>Wei Cheng</strong>, Jiang Bian. <br /> In <em>Conference on Neural Information Processing Systems (NeurIPS'24), 2024</em>.(<strong><a href="https://arxiv.org/abs/2404.13968" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>   
+  <li>
+  <p><span style="font-size: medium;"><u>Improving Logits-based Detector without Logits from Black-box LLMs.<br/></u>Cong Zeng, Shengkun Tang, Xianjun Yang, Yuanzhou Chen, Yiyou Sun, Zhiqiang xu, Yao Li, Haifeng Chen,  <strong>Wei Cheng</strong>, Dongkuan Xu. <br /> In <em>Conference on Neural Information Processing Systems (NeurIPS'24), 2024</em>.(<strong><a href="https://arxiv.org/pdf/2406.05232" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>   
   <li>
   <p><span style="font-size: medium;"><u>TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution.<br/></u>Wenyue Hua, Xianjun Yang, Zelong Li,  <strong>Wei Cheng</strong>, Ruixiang Tang, Yongfeng Zhang. <br /> In <em>Empirical Methods in Natural Language Processing (EMNLP'24), 2024</em>.(<strong><a href="https://arxiv.org/pdf/2402.01586.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
