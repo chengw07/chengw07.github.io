@@ -67,7 +67,7 @@
  </span></p>
  </li>   
   <li>
-  <p><span style="font-size: medium;"><u>Improving Logits-based Detector without Logits from Black-box LLMs.<br/></u>Cong Zeng, Shengkun Tang, Xianjun Yang, Yuanzhou Chen, Yiyou Sun, Zhiqiang xu, Yao Li, Haifeng Chen,  <strong>Wei Cheng</strong>, Dongkuan Xu. <br /> In <em>Conference on Neural Information Processing Systems (NeurIPS'24), 2024</em>.(<strong><a href="https://arxiv.org/pdf/2406.05232" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Improving Logits-based Detector without Logits from Black-box LLMs.<br/></u>Cong Zeng, Shengkun Tang, Xianjun Yang, Yuanzhou Chen, Yiyou Sun, Zhiqiang xu, Yao Li, Haifeng Chen,  <strong>*Wei Cheng</strong>, Dongkuan Xu. <br /> In <em>Conference on Neural Information Processing Systems (NeurIPS'24), 2024</em>.(<strong><a href="https://arxiv.org/pdf/2406.05232" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>   
   <li>
