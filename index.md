@@ -71,11 +71,15 @@
  </span></p>
  </li> 
     <li>
-  <p><span style="font-size: medium;"><u>Scattered Forest Search: Smarter Code Space Exploration with LLMs Scaling Inference.<br/></u> Jonathan Light, Yue Wu, Yiyou Sun, Wenchao Yu, Yanchi Liu, Xujiang Zhao, Ziniu Hu, Haifeng Chen, <strong>Wei Cheng</strong>. <br /> In <em>The Thirteenth International Conference on Learning Representations (ICLR'25)), 2025</em>.(<strong><a href="[[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/abs/2410.02970)](https://openreview.net/pdf?id=MCHuGOkExF)" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Scattered Forest Search: Smarter Code Space Exploration with LLMs Scaling Inference.<br/></u> Jonathan Light, Yue Wu, Yiyou Sun, Wenchao Yu, Yanchi Liu, Xujiang Zhao, Ziniu Hu, Haifeng Chen, <strong>*Wei Cheng</strong>. <br /> In <em>The Thirteenth International Conference on Learning Representations (ICLR'25)), 2025</em>.(<strong><a href="[[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/abs/2410.02970)](https://openreview.net/pdf?id=MCHuGOkExF)" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li> 
  <li>
   <p><span style="font-size: medium;"><u>Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search.<br/></u> Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, Xiusi Chen, <strong>Wei Cheng</strong>, Yisong Yue, Ziniu Hu. <br /> In <em>The Thirteenth International Conference on Learning Representations (ICLR'25)), 2025</em>.(<strong><a href="[[[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/abs/2410.02970)](https://openreview.net/pdf?id=MCHuGOkExF)](https://openreview.net/pdf?id=gfI9v7AbFg)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+ <li>
+  <p><span style="font-size: medium;"><u>Humanizing the Machine: Proxy Attacks to Mislead LLM Detectors.<br/></u> Tianchun Wang, Yuanzhou Chen, Zichuan Liu, Zhanwen Chen, Haifeng Chen, Xiang Zhang, <strong>Wei Cheng</strong>. <br /> In <em>The Thirteenth International Conference on Learning Representations (ICLR'25)), 2025</em>.(<strong><a href="[[[[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/abs/2410.02970)](https://openreview.net/pdf?id=MCHuGOkExF)](https://openreview.net/pdf?id=gfI9v7AbFg)](https://openreview.net/pdf?id=PIpGN5Ko3v)" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li> 
   <li>
