@@ -63,7 +63,7 @@
   2025
   </strong>
   <li>
-  <p><span style="font-size: medium;"><u>Chain-of-region: Visual Language Models Need Details for Diagram Analysis<br/></u>,  Xue Li, Yiyou Sun, <strong>Wei Cheng</strong>, Yinglun Zhu, Haifeng Chen. <br /> In <em>The Thirteenth International Conference on Learning Representations (ICLR'25)), 2025</em>.(<strong><a href="[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Chain-of-region: Visual Language Models Need Details for Diagram Analysis.<br/></u>Xue Li, Yiyou Sun, <strong>Wei Cheng</strong>, Yinglun Zhu, Haifeng Chen. <br /> In <em>The Thirteenth International Conference on Learning Representations (ICLR'25)), 2025</em>.(<strong><a href="[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>  
     <li>
