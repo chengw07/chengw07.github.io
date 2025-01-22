@@ -59,11 +59,34 @@
   <p><span style="font-size: medium;"><u>Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey.<br/></u>C. Ling, X. Zhao, J. Lu, C. Deng, C. Zheng, J. Wang, T. Chowdhury, Y. Li, H. Cui, X. Zhang, T. Zhao, A. Panalkar, <strong>Wei Cheng</strong>, H. Wang, Y. Liu, Z. Chen, H. Chen, C. White, Q. Gu, C. Yang, L. Zhao.<br />. (<strong><a href="https://arxiv.org/pdf/2305.18703.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
+  <strong>
+  2025
+  </strong>
+  <li>
+  <p><span style="font-size: medium;"><u>Chain-of-region: Visual Language Models Need Details for Diagram Analysis<br/></u>,  Xue Li, Yiyou Sun, <strong>Wei Cheng</strong>, Yinglun Zhu, Haifeng Chen. <br /> In <em>The Thirteenth International Conference on Learning Representations (ICLR'25)), 2025</em>.(<strong><a href="[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>  
+    <li>
+  <p><span style="font-size: medium;"><u>F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI,<br/></u>  Xu Zheng, Farhad Shirani, Zhuomin Chen, Chaohao Lin, <strong>Wei Cheng</strong>, Wenbo Guo, Dongsheng Luo. <br /> In <em>The Thirteenth International Conference on Learning Representations (ICLR'25)), 2025</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/abs/2410.02970)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+    <li>
+  <p><span style="font-size: medium;"><u>Scattered Forest Search: Smarter Code Space Exploration with LLMs Scaling Inference.<br/></u> Jonathan Light, Yue Wu, Yiyou Sun, Wenchao Yu, Yanchi Liu, Xujiang Zhao, Ziniu Hu, Haifeng Chen, <strong>Wei Cheng</strong>. <br /> In <em>The Thirteenth International Conference on Learning Representations (ICLR'25)), 2025</em>.(<strong><a href="[[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/abs/2410.02970)](https://openreview.net/pdf?id=MCHuGOkExF)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+ <li>
+  <p><span style="font-size: medium;"><u>Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search.<br/></u> Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, Xiusi Chen, <strong>Wei Cheng</strong>, Yisong Yue, Ziniu Hu. <br /> In <em>The Thirteenth International Conference on Learning Representations (ICLR'25)), 2025</em>.(<strong><a href="[[[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/abs/2410.02970)](https://openreview.net/pdf?id=MCHuGOkExF)](https://openreview.net/pdf?id=gfI9v7AbFg)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+  <li>
+  <p><span style="font-size: medium;"><u>TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents..<br/></u> Geon Lee, Wenchao Yu, Kijung Shin, <strong>Wei Cheng</strong>, Haifeng Chen. <br /> In <em>The The 2025 AAAI International Conference on Artificial Intelligence (AAAI'25), 2025</em>.(<strong><a href="[[[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/abs/2410.02970)](https://openreview.net/pdf?id=MCHuGOkExF)](https://openreview.net/pdf?id=gfI9v7AbFg)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
    <strong>
   2024
   </strong>
 <li>
-  <p><span style="font-size: medium;"><u>Protecting Your LLMs with Information Bottleneck..<br/></u>Zichuan Liu, Zefan Wang, Linjie Xu, Jinyu Wang, Lei Song, Tianchun Wang, Chunlin Chen,  <strong>Wei Cheng</strong>, Jiang Bian. <br /> In <em>Conference on Neural Information Processing Systems (NeurIPS'24), 2024</em>.(<strong><a href="https://arxiv.org/abs/2404.13968" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Protecting Your LLMs with Information Bottleneck.<br/></u>Zichuan Liu, Zefan Wang, Linjie Xu, Jinyu Wang, Lei Song, Tianchun Wang, Chunlin Chen,  <strong>Wei Cheng</strong>, Jiang Bian. <br /> In <em>Conference on Neural Information Processing Systems (NeurIPS'24), 2024</em>.(<strong><a href="https://arxiv.org/abs/2404.13968" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>   
   <li>
