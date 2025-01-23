@@ -46,11 +46,6 @@
   <p><span style="font-size: medium;"><u>PAC Learnability under Explanation-Preserving Graph Perturbations.<br/></u>Xu Zheng, Farhad Shirani, Tianchun Wang, Shouwei Gao, Wenqian Dong,  <strong>Wei Cheng</strong>, Dongsheng Luo. <br /> (<strong><a href="https://www.arxiv.org/abs/2402.05039" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>
-    
-  <li>
-  <p><span style="font-size: medium;"><u>Dynamic Prompting: A Unified Framework for Prompt Tuning.<br/></u>Xianjun Yang, <strong>*Wei Cheng</strong>, Xujiang Zhao, Wenchao Yu, Linda Petzold, Haifeng Chen.<br /> (<strong><a href="https://arxiv.org/pdf/2303.02909.pdf" rel="nofollow">PDF</a></strong>)
- </span></p>
- </li>
   <li>
   <p><span style="font-size: medium;"><u>Exploring the limits of chatgpt for query or aspect-based text summarization.<br/></u>Xianjun Yang, Yan Li, Xinlu Zhang, Haifeng Chen, <strong>*Wei Cheng</strong>.<br />. (<strong><a href="https://arxiv.org/pdf/2302.08081.pdf" rel="nofollow">PDF</a></strong>)
  </span></p>
@@ -63,7 +58,7 @@
   2025
   </strong>
   <li>
-  <p><span style="font-size: medium;"><u>Position Really Matters: Towards a Holistic Approach for Prompt Tuning.<br/></u>Xianjun Yang, <strong>Wei Cheng</strong>, Xujiang Zhao, Wenchao Yu, Linda Petzold, Haifeng Chen. <br /> In <em>Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’25)</em>.(<strong><a href="[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)" rel="nofollow">PDF</a></strong>)
+  <p><span style="font-size: medium;"><u>Position Really Matters: Towards a Holistic Approach for Prompt Tuning.<br/></u>Xianjun Yang, <strong>*Wei Cheng</strong>, Xujiang Zhao, Wenchao Yu, Linda Petzold, Haifeng Chen. <br /> In <em>Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’25)</em>.(<strong><a href="[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)" rel="nofollow">PDF</a></strong>)
  </span></p>
  </li>  
  <li>
