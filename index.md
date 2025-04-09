@@ -57,6 +57,14 @@
   <strong>
   2025
   </strong>
+   <li>
+  <p><span style="font-size: medium;"><u>DISC: Dynamic Decomposition Improves LLM Inference Scaling.<br/></u>Jonathan Light, <strong>*Wei Cheng</strong>, Yue Wu, Masafumi Oyamada, Mengdi Wang, Santiago Paternain, Haifeng Chen <br /> In <em>ICLR Workshop on Deep Learning for Code, and ICLR Workshop on Scaling Self-Improving Foundation Models without Human Supervision (SSI-FM)</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/pdf/2502.16706)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>  
+  <li>
+  <p><span style="font-size: medium;"><u>Where's the liability in the Generative Era? Recovery-based Black-Box Detection of AI-Generated Content.<br/></u>Haoyue Bai, Yiyou Sun, <strong>Wei Cheng</strong>, Haifeng Chen. <br /> In <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’25)</em>.(<strong><a href="https://arxiv.org/pdf/2303.02909.pdf)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>  
   <li>
   <p><span style="font-size: medium;"><u>Position Really Matters: Towards a Holistic Approach for Prompt Tuning.<br/></u>Xianjun Yang, <strong>*Wei Cheng</strong>, Xujiang Zhao, Wenchao Yu, Linda Petzold, Haifeng Chen. <br /> In <em>Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’25)</em>.(<strong><a href="[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)" rel="nofollow">PDF</a></strong>)
  </span></p>
