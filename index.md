@@ -57,6 +57,43 @@
   <strong>
   2025
   </strong>
+
+ <li>
+  <p><span style="font-size: medium;"><u>Multi-DISC: Dynamic Decomposition Improves LLM Inference Scaling.<br/></u>Jonathan Light, <strong>*Wei Cheng</strong>, Benjamin Riviere, Yue Wu, Masafumi Oyamada, Mengdi Wang, Yisong Yue, Santiago Paternain, Haifeng Chen.<br /> In <em>Conference on Neural Information Processing Systems, 2025</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/pdf/2502.16706)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+  <li>
+  <p><span style="font-size: medium;"><u>Human Texts Are Outliers: Detecting LLM-generated Texts via Out-of-distribution Detection.<br/></u>Shengkun Tang, Cong Zeng, Yuanzhou Chen, Zhiqiang Shen, Wenchao Yu, Xujiang Zhao, Haifeng Chen, <strong>Wei Cheng</strong>, Zhiqiang Xu.<br /> In <em>Conference on Neural Information Processing Systems, 2025</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/pdf/2502.16706)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+  <li>
+  <p><span style="font-size: medium;"><u>Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop.<br/></u>Yushan Jiang, Wenchao Yu, Geon Lee, Dongjin Song, Kijung Shin,  <strong>Wei Cheng</strong>, Yanchi Liu, Haifeng Chen.<br /> In <em>Conference on Neural Information Processing Systems, 2025</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/pdf/2502.16706)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+  <li>
+  <p><span style="font-size: medium;"><u>SolverLLM: Leveraging Test-Time Scaling for Optimization Problem via LLM-Guided Search.<br/></u>Dong Li, Xujiang Zhao, Linlin Yu, Yanchi Liu, <strong>Wei Cheng</strong>, Zhengzhang Chen, Zhong Chen, Feng Chen, Chen Zhao, Haifeng Chen.<br /> In <em>Conference on Neural Information Processing Systems, 2025</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/pdf/2502.16706)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+ <li>
+  <p><span style="font-size: medium;"><u>Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting.<br/></u>ChengAo Shen, Wenchao Yu, Ziming Zhao, Dongjin Song, <strong>Wei Cheng</strong>, Haifeng Chen, Jingchao Ni.<br /> In <em>Conference on Neural Information Processing Systems, 2025</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/pdf/2502.16706)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+ <li>
+  <p><span style="font-size: medium;"><u>Extreme Event Prediction with Hierarchical Knowledge Distillation and Expert Fusion.<br/></u>Quan Li, Wenchao Yu, Suhang Wang, Minhua Lin, Lingwei Chen, <strong>Wei Cheng</strong>,  Haifeng Chen.<br /> In <em>ACM Computing Surveys</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/pdf/2502.16706)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+ <li>
+  <p><span style="font-size: medium;"><u>Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey.<br/></u>C. Ling, X. Zhao, J. Lu, C. Deng, C. Zheng, J. Wang, T. Chowdhury, Y. Li, H. Cui, X. Zhang, T. Zhao, A. Panalkar, <strong>Wei Cheng</strong>, H. Wang, Y. Liu, Z. Chen, H. Chen, C. White, Q. Gu, C. Yang, L. Zhao. <br /> In <em>ACM Computing Surveys</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/pdf/2502.16706)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+ <li>
+  <p><span style="font-size: medium;"><u>Uncertainty Propagation on LLM Agent.<br/></u>Qiwei Zhao, Dong Li, Yanchi Liu, <strong>Wei Cheng</strong>, Yiyou Sun, Mika Oishi, Takao Osaki, Katsushi Matsuda, Huaxiu Yao, Chen Zhao, Haifeng Chen, Xujiang Zhao. <br /> In <em>The 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25).</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/pdf/2502.16706)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li> 
+  <li>
+  <p><span style="font-size: medium;"><u>Harnessing Vision Models for Time Series Analysis: A Survey.<br/></u>Jingchao Ni, Ziming Zhao, ChengAo Shen, Hanghang Tong, Dongjin Song, <strong>Wei Cheng</strong>, Dongsheng Luo, Haifeng Chen. <br /> In <em>The 34th International Joint Conference on Artificial Intelligence (IJCAI'25), 2025.</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/pdf/2502.16706)" rel="nofollow">PDF</a></strong>)
+ </span></p>
+ </li>    
    <li>
   <p><span style="font-size: medium;"><u>DISC: Dynamic Decomposition Improves LLM Inference Scaling.<br/></u>Jonathan Light, <strong>*Wei Cheng</strong>, Yue Wu, Masafumi Oyamada, Mengdi Wang, Santiago Paternain, Haifeng Chen <br /> In <em>ICLR Workshop on Deep Learning for Code, and ICLR Workshop on Scaling Self-Improving Foundation Models without Human Supervision (SSI-FM)</em>.(<strong><a href="[[https://arxiv.org/abs/2404.13968](https://openreview.net/pdf/8c79ad34eda18c2d39e6a6a1b7ee12cf58b6b12d.pdf)](https://arxiv.org/pdf/2502.16706)" rel="nofollow">PDF</a></strong>)
  </span></p>
@@ -550,7 +587,8 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 </ul>
 <h3><a name="TOC-Awards"></a>Awards</h3>
 <ul>
-  <li><span style="font-size: medium;">Best Paper Award Runner-Up, The Workshop of Trustworthy Learning on Graphs with WWW, 2024</span></li>
+  <li><span style="font-size: medium;">“Outstanding Reviewer of 2023-2024” for IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024.</span></li>
+  <li><span style="font-size: medium;">Excellent Invention Award, NEC Corporation, 2024.</span></li>
   <li><span style="font-size: medium;"> Best Reviewer Award, ECML/PKDD, 2023.</span></li>
 <li><span style="font-size: medium;">Best Paper Award, The Workshop of Artificial Intelligence for Time Series Analysis (IJCAI Workshop), 2023</span></li>
 <li><span style="font-size: medium;">NEC Global Innovation Unit Outstanding Value Award, 2022</span></li>
@@ -576,8 +614,8 @@ Mapping.<br /></u><strong>Wei Cheng</strong>, Xiang Zhang, and Wei Wang<br /><em
 <h3><a name="TOC-Professional-Activities"></a>Professional Activities</h3>
 <ul>
  <li><span style="font-size: medium;">Chair: IJCAI'22 WORKSHOP, AI4TS: AI FOR TIME SERIES ANALYSIS, KDD'23 Registration Co-Chair</span></li>
-<li><span style="font-size: medium;">Area Chair: AAAI'25, ACL'24, NAACL'24, AAAI'24, EMNLP'23, AAAI'23, AAAI'21, WSDM'20, AAAI'20</span></li>
-<li><span style="font-size: medium;">SPC/PC Member or Reviewer: ICML'24, SIGIR'24, WSDM'24, CIKM'24, ECMK'24, NeurIPS'23, ICML'23, SIGIR'23, WSDM'23, NeurIPS'22, ICML'22, CIKM'22, SIGKDD'22, SIGIR'22, ICDE'22, ICLR'22, AAAI'22, SDM'22, WSDM'22, ICML'21, KDD'21, SIGIR'21, ICLR'21, CIKM'21, NeurIPS'20, KDD'20, SIGIR'20, CIKM'20, AAAI'20, WSDM'20, AAAI'19, CIKM'18,&nbsp;ICDM'17, SDM'17, IJCAI'15, KDD'14, ECML PKDD'15,'16</span></li>
+<li><span style="font-size: medium;">Area Chair: ICLR'26, AAAI'25, ACL'24, NAACL'24, AAAI'24, EMNLP'23, AAAI'23, AAAI'21, WSDM'20, AAAI'20</span></li>
+<li><span style="font-size: medium;">SPC/PC Member or Reviewer: WWW'26, AISTATS'26, ICML'24, SIGIR'24, WSDM'24, CIKM'24, ECMK'24, NeurIPS'23, ICML'23, SIGIR'23, WSDM'23, NeurIPS'22, ICML'22, CIKM'22, SIGKDD'22, SIGIR'22, ICDE'22, ICLR'22, AAAI'22, SDM'22, WSDM'22, ICML'21, KDD'21, SIGIR'21, ICLR'21, CIKM'21, NeurIPS'20, KDD'20, SIGIR'20, CIKM'20, AAAI'20, WSDM'20, AAAI'19, CIKM'18,&nbsp;ICDM'17, SDM'17, IJCAI'15, KDD'14, ECML PKDD'15,'16</span></li>
 <li><span style="font-size: medium;">Journal Reviewer: Nature Genetics, TPAMI, Artificial Intelligence, IEEE Transactions on Artificial Intelligence, TMLR, TNNLS, ACM Computing Surveys, TKDE, TKDD, Neurocomputing, IEEE Transactions on Cybernetics </span></li>
 </ul>
 <h3><a name="TOC-Teaching"></a>Teaching</h3>
